@@ -4,12 +4,10 @@
   surname: ""
   company: "VNSecurity"
   title: "Lão đại"
-  bio: "Thủ lĩnh tối cao của VnSec&CLGT. Không riêng ở Viet Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
+  bio: "Thủ lĩnh tối cao của VNSEC & CLGT. Không riêng ở Việt Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
   thumbnailUrl: rd.jpg
   rockstar: true
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/redragonvn"}
 - 
