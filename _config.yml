@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "11 Tháng 6, 2016 "
-typeoutTextValues: '"g4mm4", "iS", "my", "hero"'
+typeoutTextValues: '"  g4mm4", "  iS", "  my", "  hero"'
 typeoutFallback: ""
 heroButtons:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
