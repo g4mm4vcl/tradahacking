@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "VNSecurity"
 organizerAlternateName: "VNSecurity"
-organizerDescription: "VNSECURITY is the pioneer and leading security research group in Vietnam since 1998."
+organizerDescription: "VNSECURITY nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời nhất tại Việt Nam."
 organizerEmail: "rd@vnsecurity.net"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.vnsecurity.net/"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/trada.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Trang Chủ"}
- - {permalink: "/blog/", text: "Tin tức"}
+ - {permalink: "/news/", text: "Tin tức"}
  - {permalink: "/schedule/", text: "Chương trình"}
  - {permalink: "/speakers/", text: "Diễn giả"}
  - {permalink: "/team/", text: "Nhóm chuyên môn"}
