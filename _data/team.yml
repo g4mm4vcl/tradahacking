@@ -8,6 +8,8 @@
   thumbnailUrl: rd.jpg
   rockstar: true
   team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/redragonvn"}
 - 
@@ -84,8 +86,8 @@
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
   id: 7
-  name: "Luật"
-  surname: "Mạnh"
+  name: "Mạnh Luật"
+  surname: ""
   company: "VNSecurity"
   title: "Strong Mother in L4w"
   bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ."
@@ -96,7 +98,7 @@
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
   id: 8
-  name: "tinduong"
+  name: "Tín Dương"
   surname: ""
   company: "VNSecurity"
   title: "Thành viên"
