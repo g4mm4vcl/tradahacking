@@ -1,4 +1,4 @@
-# Website for Trà Đá Hacking - Based on GDG DevFest 2014 site template
+# Website for Trà Đá Hacking
 
 ### About 
 Đây là website của Trà Đá Hacking dựa trên GDG DevFest 2014 site template.
@@ -20,7 +20,7 @@ To start Jekyll run:
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/tradahacking/
+Site will be available at http://127.0.0.1:4000/
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
