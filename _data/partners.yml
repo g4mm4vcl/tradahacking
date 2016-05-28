@@ -1,9 +1,9 @@
 - 
-  group: "General sponsor"
+  group: "Tài trợ chính"
   elements: 
     - {name: "Sponsor 1", description: "Sponsor 1", link: "https://url", imageUrl: "sponsor1.png"}
 - 
-  group: "With support of"
+  group: "Hỗ trợ thông tin"
   elements: 
     - {name: "Bao chi 1", description: "Bao chi 2", link: "https://www/", imageUrl: "support1.png", width: "120px"}
     - {name: "Bao chi 2", description: "Bao chi 2", link: "https://www/", imageUrl: "support1.png", width: "120px"}
