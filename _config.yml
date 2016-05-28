@@ -174,18 +174,7 @@ showSessions: true
 teamBlockTitle: "Về chúng tôi"
 aboutUs: "VNSecurity là nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời tại Việt Nam. Nhiều thành viên trong nhóm có những nghiên cứu và sản phẩm được cộng đồng trên thế giới đánh giá cao. Số khác trong đó thường xuyên công bố các lỗ hổng bảo mật nghiêm trọng trong các giao thức xương sống và phần mềm phổ biến trên internet."
 
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
-
+directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
