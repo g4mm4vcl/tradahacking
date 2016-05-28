@@ -43,11 +43,10 @@ c4sponsorsUrl: "/assets/trada.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Trang Chủ"}
- - {permalink: "/news/", text: "Tin tức"}
+ - {permalink: "/blog/", text: "Tin tức"}
  - {permalink: "/schedule/", text: "Chương trình"}
  - {permalink: "/speakers/", text: "Diễn giả"}
  - {permalink: "/team/", text: "Nhóm chuyên môn"}
- - {permalink: "/logistics/", text: "Địa điểm"}
 bottomNavigationLinks:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
 rightNavigationButtons:
@@ -106,8 +105,6 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
 venueTitle: "Chưa biết"
 venueFeatures: ["LCD Projector", ""]
 
@@ -133,42 +130,16 @@ ticketsTitle: "Vé vào cửa"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Phí tham dự"
+  price: "50.000 "
+  priceCurrency: "VND"
+  ticketsNumber: "50000"
+  ribbon: "0%"
+  buyButtonLink: "http://ticketbox"
+  buyButtonText: "Đăng ký"
+  ticketContentList: [""]
+  validFrom: "2016-06-11T09:00"
+  validThrough: "2016-06-11T12:00"
 
 # Footer
 socialLinks:
