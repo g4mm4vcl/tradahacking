@@ -59,7 +59,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "11 Tháng 6, 2016 "
-typeoutTextValues: '"  g4mm4", "  1S", "  mY", "  H3r0!!!"'
+typeoutTextValues: '"  g4mm4", "  1s", "  mY", "  h3R0!!!"'
 typeoutFallback: ""
 heroButtons:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
@@ -136,7 +136,7 @@ ticketsOffers:
   name: "Phí tham dự"
   price: "50.000 "
   priceCurrency: "VND"
-  ticketsNumber: "200"
+  ticketsNumber: "100"
   ribbon: "0%"
   buyButtonLink: "http://www.vnsecurity.net"
   buyButtonText: "Đăng ký"
