@@ -4,7 +4,8 @@ gems:
 safe: false
 
 sass:
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # Build Settings
 markdown: kramdown
