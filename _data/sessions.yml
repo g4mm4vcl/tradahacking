@@ -27,7 +27,7 @@
   speakers: [3]
   language: vi
   complexity: "Khó"
-  video: "https://www.youtube.com/watch?v=YPhloZeMCW4"
+  video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
   id: 103
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
