@@ -1,0 +1,118 @@
+-
+  id: 0
+  name: "rd"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại"
+  bio: "Thủ lĩnh tối cao của VNSEC & CLGT. Không riêng ở Việt Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
+  thumbnailUrl: rd.jpg
+  rockstar: true
+  team: true
+  present: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/redragonvn"}
+-
+  id: 1
+  name: "xichzo"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại 2"
+  bio: 'TBD'
+  thumbnailUrl: xichzo.jpg
+  rockstar: true
+  team: true
+  present: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/xichzo"}
+-
+  id: 2
+  name: "Superkhung"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm dịch ngược "
+  bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
+  thumbnailUrl: superkhung.jpg
+  rockstar: true
+  team: true
+  present: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 3
+  name: "g4mm4"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm thị phi"
+  bio: "Một người giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Dáng vẻ soái ca bề ngoài chỉ để che đậy những việc làm mờ ám và khuất tất anh đã làm trong bóng tối suốt mấy chục năm qua trên Internet."
+  thumbnailUrl: g4mm4.jpg
+  rockstar: true
+  team: true
+  present: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/g4mm4"}
+-
+  id: 4
+  name: "Navokus"
+  surname: ""
+  company: "VNSecurity"
+  title: "Phụ trách công đoàn"
+  bio: "Người phụ nữ duy nhất trong tổ chức, hành tung bí ẩn, lúc ẩn lúc hiện. Truyền thuyết kể lại VNSecurity đã phải cử rất nhiều thành viên cấp cao, mất rất nhiều thời gian công sức mới có thể thuyết phục và giữ chân người phụ nữ này phục vụ cho tổ chức."
+  thumbnailUrl: nav.jpg
+  rockstar: false
+  team: true
+  present: false
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 5
+  name: "suto"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm dò lỗ"
+  bio: "là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: suto.jpg
+  rockstar: true
+  team: true
+  present: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/sutox"}
+-
+  id: 6
+  name: "ca0nguyen"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm dò lỗ"
+  bio: "Giống như suto, niềm vui của ca0nguyen là dò tìm lỗ trong trình duyệt của người dùng. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: caonguyen.jpg
+  rockstar: false
+  team: true
+  present: false
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 7
+  name: "Mạnh Luật"
+  surname: ""
+  company: "VNSecurity"
+  title: "Strong Mother in L4w"
+  bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ."
+  thumbnailUrl: manhluat.jpg
+  rockstar: true
+  team: true
+  present: false
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 8
+  name: "Tín Dương"
+  surname: ""
+  company: "VNSecurity"
+  title: "Thành viên"
+  bio: "Một tài năng trẻ đang lên khác đang đóng vại trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
+  thumbnailUrl: tinduong.jpg
+  rockstar: false
+  team: true
+  present: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+

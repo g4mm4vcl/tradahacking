@@ -16,7 +16,7 @@
   title: "Fuzzing: Nghệ thuật tìm lỗi phần mềm đương đại"
   description: "Suto gửi abstract"
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   language: "Tiếng Việt"
   complexity: "Trung bình"
 -
@@ -24,7 +24,7 @@
   title: "Đánh nó đi"
   description: "Đánh nó đi vì thiếu tôn trọng tổ chức"
   subtype: presentation
-  speakers: [2]
+  speakers: [1]
   language: "Tiếng Việt"
   complexity: "Khó"
   video: "https://www.youtube.com/embed/YPhloZeMCW4"
@@ -33,7 +33,7 @@
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   description: "Thảo luận liên quan đến vụ việc các Ngân hàng trên thế giới (trong đó có TBP của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT blah blah"
   subtype: presentation
-  speakers: [0,2,3,5,8]
+  speakers: [0,1,2,3,4]
   language: "Tiếng Việt"
   complexity: "Dễ"
 
