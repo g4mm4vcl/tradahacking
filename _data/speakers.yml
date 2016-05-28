@@ -53,15 +53,15 @@
   company: "Twinfield, GDG Kyiv"
   title: "Chuyên gia dò lỗ"
   bio: "Giống như suto, niềm vui của ca0nguyen là dò tìm lỗ trong trình duyệt của người dùng. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
-  thumbnailUrl: ca0nguyen.jpg
+  thumbnailUrl: caonguyen.jpg
   rockstar: true
   active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
   id: 5
-  name: "Luật"
-  surname: "Mạnh"
+  name: "Mạnh Luật"
+  surname: ""
   company: "VNSecurity"
   title: "Strong Mother in L4w"
   bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ"

@@ -50,7 +50,6 @@ c4sponsorsUrl: "/assets/trada.pdf"
 navigationLinks:
  - {permalink: "/", text: "Trang Chủ"}
  - {permalink: "/schedule/", text: "Chương trình"}
- - {permalink: "/speakers/", text: "Diễn giả"}
  - {permalink: "/team/", text: "Ban tổ chức"}
 bottomNavigationLinks:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
