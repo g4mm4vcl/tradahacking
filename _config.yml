@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Trà Đá Hacking"
 email: "rd@vnsecurity.net"
 description: "Trà Đá Hacking"
-baseurl: "/zeppelin"
+baseurl: "/tradahacking"
 url: "http://redragonvn.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
