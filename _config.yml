@@ -126,20 +126,18 @@ subscribeAction: "http://emailform"
 subscribeInfo: "Số lượng vé có hạn. Đăng ký sẽ kết thúc vào 12 giờ trưa 10/06/2016!"
 
 # Tickets Block
-ticketsTitle: "Vé vào cửa"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Phí tham dự"
+ticketsInfo: "Trà Đá Hacking chỉ thu phí 50.000 VNĐ cho việc thuê địa điểm tổ chức."
 ticketsOffers:
  -
   name: "Phí tham dự"
   price: "50.000 "
   priceCurrency: "VND"
-  ticketsNumber: "50000"
+  ticketsNumber: "200"
   ribbon: "0%"
   buyButtonLink: "http://ticketbox"
   buyButtonText: "Đăng ký"
   ticketContentList: [""]
-  validFrom: "2016-06-11T09:00"
-  validThrough: "2016-06-11T12:00"
 
 # Footer
 socialLinks:
