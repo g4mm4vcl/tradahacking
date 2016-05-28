@@ -1,67 +1,88 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 0
+  name: "rd"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại"
+  bio: "Thủ lĩnh tối cao của VnSec&CLGT. Không riêng ở Viet Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
+  thumbnailUrl: rd.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/redragonvn"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  id: 1
+  name: "xichzo"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại"
+  bio: 'TBD'
+  thumbnailUrl: xichzo.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/xichzo"}
 - 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  id: 2
+  name: "g4mm4"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm thị phi"
+  bio: "Một người giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Dáng vẻ soái ca bề ngoài chỉ để che đậy những việc làm mờ ám và khuất tất anh đã làm trong bóng tối suốt mấy chục năm qua trên Internet."
+  thumbnailUrl: g4mm4.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/g4mm4"}
 - 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  id: 3
+  name: "suto"
+  surname: ""
+  company: "VNSecurity"
+  title: "Chuyên gia dò lỗ"
+  bio: "là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: suto.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "http://twitter.com/sutox"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
+  id: 4
+  name: "ca0nguyen"
+  surname: "VNSecurity"
   company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  title: "Chuyên gia dò lỗ"
+  bio: "Giống như suto, niềm vui của ca0nguyen là dò tìm lỗ trong trình duyệt của người dùng. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: ca0nguyen.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 5
+  name: "Luật"
+  surname: "Mạnh"
+  company: "VNSecurity"
+  title: "Strong Mother in L4w"
+  bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ"
+  thumbnailUrl: manhluat.jpg
+  rockstar: true
+  ribbon:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 6
+  name: "Navokus"
+  surname: ""
+  company: "VNSecurity"
+  title: "Phụ trách công đoàn"
+  bio: "Người phụ nữ duy nhất trong tổ chức, hành tung bí ẩn, lúc ẩn lúc hiện. Truyền thuyết kể lại VNSecurity đã phải cử rất nhiều thành viên cấp cao, mất rất nhiều thời gian công sức mới có thể thuyết phục và giữ chân người phụ nữ này phục vụ cho tổ chức."
+  thumbnailUrl: nav.jpg
+  rockstar: true
+  ribbon:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 7
+  name: "Superkhung"
+  surname: ""
+  company: "VNSecurity"
+  title: "Chuyện gia dịch ngược "
+  bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
+  thumbnailUrl: superkhung.jpg
+  rockstar: true
+  ribbon:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
