@@ -20,10 +20,10 @@ title: "Trà Đá Hacking"
 email: "tradahacking@vnsecurity.net"
 description: "Trà Đá Hacking"
 baseurl: "/tradahacking"
-url: "http://redragonvn.github.io"
+url: "http://tradahacking.vnsecurity.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "redragonvn.github.io"
+googleAnalyticsSiteUrl: "tradahacking.vnsecurity.net"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
