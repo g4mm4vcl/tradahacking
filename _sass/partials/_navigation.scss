@@ -39,21 +39,21 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
+        width: 100px;
         height: 65px;
-        margin-right: 20px;
-        transform: scale(.7);
-        vertical-align: middle;
+        margin-right: 0px;
+        transform: scale(1);
+        vertical-align: top;
          @media (max-width: 767px) {
-            transform: scale(.6);
+            transform: scale(0.7);
         }
     }
 }
 .logo-navbar {
-    width: 185px;
+    width: 100px;
     height: 65px;
     margin: 8px 20px 0 -10px;
-    transform: scale(.6);
+    transform: scale(1);
     vertical-align: middle;
 }
 nav {

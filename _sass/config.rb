@@ -2,6 +2,8 @@ require 'sass-media_query_combiner'
 require 'autoprefixer-rails'
 require "./remove-all-comments-monkey-patch"
 
+Encoding.default_external = "utf-8"
+
 on_stylesheet_saved do |file|
   css = File.read(file)
   File.open(file, 'w') do |io|
