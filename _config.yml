@@ -1,6 +1,8 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-compass
+
 safe: false
 
 sass:
