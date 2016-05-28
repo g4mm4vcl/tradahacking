@@ -118,7 +118,7 @@ venueFeatures: ["LCD Projector", ""]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "tradahacking"
-twitterFeed: "http://twitterfeedlink"
+twitterFeed: "http://localhost"
 
 # Partners Block
 organizersTitle: "Ban tổ chức"
