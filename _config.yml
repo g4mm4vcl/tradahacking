@@ -49,7 +49,6 @@ c4sponsorsUrl: "/assets/trada.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Trang Chủ"}
- - {permalink: "/news/", text: "Tin tức"}
  - {permalink: "/schedule/", text: "Chương trình"}
  - {permalink: "/speakers/", text: "Diễn giả"}
  - {permalink: "/team/", text: "Ban tổ chức"}
@@ -62,8 +61,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "11 Tháng 6, 2016 "
-typeoutTextValues: '"", " #1 2016"'
-typeoutFallback: " #1 2016"
+typeoutTextValues: '"",'
+typeoutFallback: ""
 heroButtons:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
  - {permalink: "/#tickets", text: "Đăng ký"}
@@ -111,14 +110,14 @@ mapMobileCenterCoordinates: "10.7516793,106.6097252"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-venueTitle: "Chưa biết"
-venueFeatures: ["LCD Projector", ""]
+venueTitle: "Chưa xác định"
+venueFeatures: [""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "tradahacking"
-twitterFeed: "http://localhost"
+twitterFeed: "http://twitter.com"
 
 # Partners Block
 organizersTitle: "Ban tổ chức"
@@ -128,7 +127,7 @@ partnersC4sponsorsButton: "Trở thành nhà tài trợ"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Đăng ký để nhận thông tin mới"
-subscribeAction: "http://emailform"
+subscribeAction: "http://www.vnsecurity.net"
 subscribeInfo: "Số lượng vé có hạn. Đăng ký sẽ kết thúc vào 12 giờ trưa 10/06/2016!"
 
 # Tickets Block
@@ -141,7 +140,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "http://ticketbox"
+  buyButtonLink: "http://www.vnsecurity.net"
   buyButtonText: "Đăng ký"
   ticketContentList: [""]
 
@@ -158,13 +157,13 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:rd@vnsecurity.net", text: "rd@vnsecurity.net"}
+   - {link: "mailto:tradahacking@vnsecurity.net", text: "tradahacking@vnsecurity.net"}
 
 
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "tradahacking"
 
 # Speakers List Block
 showSessions: true
@@ -224,7 +223,7 @@ prizes:
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
+hackathonLocationLink: "http://tradahacking"
 hackathonStreetAddress: "1 Halytska St"
 hackathonAddressLocality: "Lviv"
 hackathonAddressLocalityRegion: "Lvivska"
