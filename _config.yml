@@ -142,6 +142,8 @@ ticketsOffers:
   buyButtonLink: "http://www.vnsecurity.net"
   buyButtonText: "Đăng ký"
   ticketContentList: [""]
+  validThrough: "2016-06-11"
+
 
 # Footer
 socialLinks:
