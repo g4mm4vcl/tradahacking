@@ -101,9 +101,9 @@ eventAddressCountry: "Việt nam"
 eventStartTime: "2016-06-11T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2016-06-11T12:00"
-eventPlaceCoordinates: "10.7516793,106.6097252"
-mapCenterCoordinates: "10.7516793,106.6097252"
-mapMobileCenterCoordinates: "10.7516793,106.6097252"
+eventPlaceCoordinates: "10.764219, 106.656323"
+mapCenterCoordinates: "10.764219, 106.656323"
+mapMobileCenterCoordinates: "10.764219, 106.656323"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
