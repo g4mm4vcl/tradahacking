@@ -21,117 +21,117 @@ googleAnalyticsSiteUrl: "redragonvn.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "VNSecurity"
+organizerAlternateName: "VNSecurity"
+organizerDescription: "VNSECURITY is the pioneer and leading security research group in Vietnam since 1998."
+organizerEmail: "rd@vnsecurity.net"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.vnsecurity.net/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "vnsec, vnsecurity, tradahacking"
+twitterAccount: "@vnsec"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://www.vnsecurity.net/"
+c4sponsorsUrl: "/assets/trada.pdf"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/", text: "Trang Chủ"}
+ - {permalink: "/news/", text: "Tin tức"}
+ - {permalink: "/schedule/", text: "Chương trình"}
+ - {permalink: "/speakers/", text: "Diễn giả"}
+ - {permalink: "/team/", text: "Nhóm chuyên môn"}
+ - {permalink: "/logistics/", text: "Địa điểm"}
+ - {permalink: "/hackathon/", text: "CTF"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "Trà Đá Hacking #1 2016"
+eventDate: "11 Tháng 6, 2016 "
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
+ - {permalink: "/#tickets", text: "Đăng ký"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Về Trà Đá Hacking"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Tại sao là “Trà đá hacking”?", image: "conference.jpg", text: "Sự xuất hiện của buổi offline “Trà đá hacking” do nhóm vnsecurity tổ chức trong bối cảnh hiện nay được ví như ly trà thanh nhiệt giải toả cơn khát kéo dài về nhu cầu học tập/ trao đổi/ nâng cao kiến thức cho cộng đồng nói chung và các bạn trẻ yêu thích hacking/security ở Việt Nam nói riêng. Trong thời đại mà nhà nhà bị hacked, người người bị backdoored, vạn vật bị root, xu hướng Internet of Things ở Việt Nam đã, đang và sẽ phơi nhiễm thành Botnet of Things" }
+ - {title: "Ai đứng ra tổ chức?", image: "workshop.jpg", text: "Được tổ chức bởi Vnsecurity, nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời tại Việt Nam. Nhiều thành viên trong nhóm có những nghiên cứu và sản phẩm được cộng đồng trên thế giới đánh giá cao. Số khác trong đó thường xuyên công bố các lỗ hổng bảo mật nghiêm trọng trong các giao thức xương sống và phần mềm phổ biến trên internet." }
+ - {title: "CTF", image: "hackathon.jpg", text: "Full-day freestyle CTF! Want some real team building on friday? Grab your team and join our CTF!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "50-100", specialCharacter: "+", info: "người tham dự", detail: "tại Sài Gòn"}
+ - {count: "4", specialCharacter: "+", info: "giờ", detail: "trà chanh chém gió về an toàn thông tin"}
+ - {count: "4", specialCharacter: "+", info: "diễn giả", detail: ""}
+ - {count: "4", specialCharacter: "", info: "chủ đề", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Tin mới"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Diễn giả nổi bật"
+rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Địa điểm"
+eventLocationName: "Chưa biết ở đâu"
+eventLocationLink: "http://xxx/"
+eventStreetAddress: "182 Lê Đại Hành, Quận 11"
+eventAddressLocality: "Hồ Chí Minh"
+eventAddressLocalityRegion: "SG"
+eventPostalCode: "70000"
+eventAddressCountry: "Việt nam"
+eventStartTime: "2016-06-11T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2016-06-11T12:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Chưa biết"
+venueFeatures: ["LCD Projector", ""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "tradahacking"
+twitterFeed: "http://twitterlink"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Ban tổ chức"
+partnersTitle: "Nhà tài trợ"
+partnersC4sponsorsButton: "Trở thành nhà tài trợ"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Đăng ký để nhận thông tin mới"
+subscribeAction: "http://emailform"
+subscribeInfo: "Số lượng vé có hạn. Đăng ký sẽ kết thúc vào 12 giờ trưa 10/06/2016!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Vé vào cửa"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
