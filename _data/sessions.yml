@@ -16,7 +16,7 @@
   title: "Fuzzing: Nghệ thuật tìm lỗi phần mềm đương đại"
   description: "Suto gửi abstract"
   subtype: presentation
-  speakers: [5]
+  speakers: [3]
   language: vi
   complexity: "Trung bình"
 -
@@ -24,7 +24,7 @@
   title: "Đánh nó đi"
   description: "Đánh nó đi vì thiếu tôn trọng tổ chức"
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   language: vi
   complexity: "Khó"
   video: "https://www.youtube.com/embed/YPhloZeMCW4"
