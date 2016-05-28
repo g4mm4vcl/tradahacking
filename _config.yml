@@ -3,6 +3,9 @@ gems:
 - jekyll-sitemap
 safe: false
 
+sass:
+    style: compressed
+
 # Build Settings
 markdown: kramdown
 permalink: pretty
