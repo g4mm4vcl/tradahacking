@@ -1,60 +1,88 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  name: "rd"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại"
+  bio: "Thủ lĩnh tối cao của VnSec&CLGT. Không riêng ở Viet Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
+  thumbnailUrl: rd.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/redragonvn"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  name: "xichzo"
+  surname: ""
+  company: "VNSecurity"
+  title: "Lão đại"
+  bio: 'TBD'
+  thumbnailUrl: xichzo.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/xichzo"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  name: "g4mm4"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm thị phi"
+  bio: "Một người giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Dáng vẻ soái ca bề ngoài chỉ để che đậy những việc làm mờ ám và khuất tất anh đã làm trong bóng tối suốt mấy chục năm qua trên Internet."
+  thumbnailUrl: g4mm4.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/g4mm4"}
+- 
+  id: 3
+  name: "suto"
+  surname: ""
+  company: "VNSecurity"
+  title: "Chuyên gia dò lỗ"
+  bio: "là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: suto.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/sutox"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "ca0nguyen"
+  surname: "VNSecurity"
+  company: "Twinfield, GDG Kyiv"
+  title: "Chuyên gia dò lỗ"
+  bio: "Giống như suto, niềm vui của ca0nguyen là dò tìm lỗ trong trình duyệt của người dùng. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: ca0nguyen.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 5
+  name: "Luật"
+  surname: "Mạnh"
+  company: "VNSecurity"
+  title: "Strong Mother in L4w"
+  bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ"
+  thumbnailUrl: manhluat.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
+  id: 6
+  name: "Navokus"
+  surname: ""
+  company: "VNSecurity"
+  title: "Phụ trách công đoàn"
+  bio: "Người phụ nữ duy nhất trong tổ chức, hành tung bí ẩn, lúc ẩn lúc hiện. Truyền thuyết kể lại VNSecurity đã phải cử rất nhiều thành viên cấp cao, mất rất nhiều thời gian công sức mới có thể thuyết phục và giữ chân người phụ nữ này phục vụ cho tổ chức."
+  thumbnailUrl: nav.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Superkhung"
+  surname: ""
+  company: "VNSecurity"
+  title: "Chuyện gia dịch ngược "
+  bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
+  thumbnailUrl: superkhung.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.vnsecurity.net/"}
