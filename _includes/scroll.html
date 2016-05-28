@@ -1,7 +1,12 @@
+    <script>
+        function pageScroll() {
+    	window.scrollBy(0,50); // horizontal and vertical scroll increments
+    	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
+        }
+    </script>
     <style>
         div.fixedscroll {
             position: fixed;
-            border: 3px solid #aa33dd;
             bottom:3%;
             left: 49%
         }
