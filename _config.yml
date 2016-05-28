@@ -17,7 +17,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-email: "rd@vnsecurity.net"
+email: "tradahacking@vnsecurity.net"
 description: "Trà Đá Hacking"
 baseurl: "/tradahacking"
 url: "http://redragonvn.github.io"
@@ -30,7 +30,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "VNSecurity"
 organizerAlternateName: "VNSecurity"
 organizerDescription: "VNSECURITY nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời nhất tại Việt Nam."
-organizerEmail: "rd@vnsecurity.net"
+organizerEmail: "tradahacking@vnsecurity.net"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.vnsecurity.net/"
 
@@ -75,8 +75,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50-100", specialCharacter: "+", info: "người tham dự", detail: "tại Sài Gòn"}
- - {count: "4", specialCharacter: "+", info: "giờ", detail: "trà chanh chém gió về an toàn thông tin"}
+ - {count: "100", specialCharacter: "+", info: "người tham dự", detail: ""}
+ - {count: "4", specialCharacter: "+", info: "giờ", detail: ""}
  - {count: "4", specialCharacter: "+", info: "diễn giả", detail: ""}
  - {count: "4", specialCharacter: "", info: "chủ đề", detail: ""}
 
@@ -107,9 +107,9 @@ mapMobileCenterCoordinates: "10.7516793,106.6097252"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueTitle: "Chưa xác định"
+venueBigImage: "venue_2.jpg"
+venueSmallImage1: "venue_3.jpg"
+venueTitle: "182 Lê Đại Hành, Quận 11, TP Hồ Chí Minh"
 venueFeatures: [""]
 
 # Tweets Feed Block
