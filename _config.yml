@@ -116,7 +116,7 @@ venueFeatures: [""]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "tradahacking"
-twitterFeed: "http://twitter.com"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Ban tổ chức"
