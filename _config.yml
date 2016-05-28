@@ -19,7 +19,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Trà Đá Hacking"
 email: "tradahacking@vnsecurity.net"
 description: "Trà Đá Hacking"
-baseurl: "/tradahacking"
+baseurl: "/"
 url: "http://tradahacking.vnsecurity.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
