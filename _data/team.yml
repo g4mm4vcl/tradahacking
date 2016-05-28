@@ -54,7 +54,7 @@
   title: "Phụ trách công đoàn"
   bio: "Người phụ nữ duy nhất trong tổ chức, hành tung bí ẩn, lúc ẩn lúc hiện. Truyền thuyết kể lại VNSecurity đã phải cử rất nhiều thành viên cấp cao, mất rất nhiều thời gian công sức mới có thể thuyết phục và giữ chân người phụ nữ này phục vụ cho tổ chức."
   thumbnailUrl: nav.jpg
-  rockstar: true
+  rockstar: false
   team: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -78,7 +78,7 @@
   title: "Trùm dò lỗ"
   bio: "Giống như suto, niềm vui của ca0nguyen là dò tìm lỗ trong trình duyệt của người dùng. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
   thumbnailUrl: caonguyen.jpg
-  rockstar: true
+  rockstar: false
   team: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -102,7 +102,7 @@
   title: "Thành viên"
   bio: "Một tài năng trẻ đang lên khác đang đóng vại trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
   thumbnailUrl: tinduong.jpg
-  rockstar: true
+  rockstar: false
   team: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
