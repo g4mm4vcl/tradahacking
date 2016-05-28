@@ -1,4 +1,4 @@
-# Website for Trà Đá Hacking - Based on GDG DevFest 2014 site template
+# Website for Trà Đá Hacking
 
 ### About 
 Đây là website của Trà Đá Hacking dựa trên GDG DevFest 2014 site template.
