@@ -11,9 +11,6 @@
   speakers: [1]
   language: vi
   complexity: "Dễ"
-
-  - {title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT - @Nhiều diễn giả", color: "#90be4e"}
-
 -
   id: 101
   title: "Fuzzing: Nghệ thuật tìm lỗi phần mềm đương đại"
