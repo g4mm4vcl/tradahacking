@@ -5,5 +5,5 @@
 - 
   group: "Hỗ trợ thông tin"
   elements: 
-    - {name: "Bao chi 1", description: "Bao chi 2", link: "https://www/", imageUrl: "support1.png", width: "120px"}
-    - {name: "Bao chi 2", description: "Bao chi 2", link: "https://www/", imageUrl: "support1.png", width: "120px"}
+    - {name: "Bao chi 1", description: "Bao chi 2", link: "https://www/", imageUrl: "sponsor1.png", width: "120px"}
+    - {name: "Bao chi 2", description: "Bao chi 2", link: "https://www/", imageUrl: "sponsor1.png", width: "120px"}
