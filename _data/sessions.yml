@@ -16,7 +16,7 @@
   title: "Fuzzing: Nghệ thuật tìm lỗi phần mềm đương đại"
   description: "Suto gửi abstract"
   subtype: presentation
-  speakers: [3]
+  speakers: [5]
   language: vi
   complexity: "Trung bình"
 -
@@ -33,7 +33,7 @@
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   description: "Thảo luận liên quan đến vụ việc các Ngân hàng trên thế giới (trong đó có TBP của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT blah blah"
   subtype: presentation
-  speakers: [0, 2, 3]
+  speakers: [0,2,3,5,7,8]
   language: vi
   complexity: "Dễ"
 
