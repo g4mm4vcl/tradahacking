@@ -9,7 +9,7 @@
   title: "Giới thiệu Trà Đá Hacking"
   subtype: keynote
   speakers: [0]
-  language: vi
+  language: "Tiếng Việt"
   complexity: "Dễ"
 -
   id: 101
@@ -17,7 +17,7 @@
   description: "Suto gửi abstract"
   subtype: presentation
   speakers: [3]
-  language: vi
+  language: "Tiếng Việt"
   complexity: "Trung bình"
 -
   id: 102
@@ -25,7 +25,7 @@
   description: "Đánh nó đi vì thiếu tôn trọng tổ chức"
   subtype: presentation
   speakers: [2]
-  language: vi
+  language: "Tiếng Việt"
   complexity: "Khó"
   video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
@@ -33,8 +33,8 @@
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   description: "Thảo luận liên quan đến vụ việc các Ngân hàng trên thế giới (trong đó có TBP của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT blah blah"
   subtype: presentation
-  speakers: [0,2,3,5,7,8]
-  language: vi
+  speakers: [0,2,3,5,8]
+  language: "Tiếng Việt"
   complexity: "Dễ"
 
 
