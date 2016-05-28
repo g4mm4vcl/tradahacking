@@ -56,8 +56,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "11 Tháng 6, 2016 "
-typeoutTextValues: '"", "số #1 2016", "Sài Gòn",'
-typeoutFallback: "số #1 2016"
+typeoutTextValues: '"", " #1 2016"'
+typeoutFallback: " #1 2016"
 heroButtons:
  - {link: "http://www.vnsecurity.net/", text: "Trở thành diễn giả"}
  - {permalink: "/#tickets", text: "Đăng ký"}
