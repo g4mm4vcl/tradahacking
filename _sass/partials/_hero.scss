@@ -71,3 +71,11 @@
         transform: translateY(-16px);
     }
 }
+
+.top-section-text {
+    p {
+        font-size: $base-font-size * 1.2;
+        font-weight: $light;
+        opacity: 0.8;
+    }
+}
