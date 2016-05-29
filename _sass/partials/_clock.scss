@@ -8,20 +8,19 @@
 }
 
 #clockdiv > div{
-	padding: 10px;
+	padding: 5px;
 	border-radius: 3px;
-	background: #C2502B;
 	display: inline-block;
 }
 
 #clockdiv div > span{
-	padding: 15px;
+	padding: 5px;
 	border-radius: 3px;
-	background: #97391F;
+    background-color: rgba(255, 255, 255, 0.2);
 	display: inline-block;
 }
 
 .clocktext{
-	padding-top: 5px;
+	padding-top: 3px;
 	font-size: 16px;
 }

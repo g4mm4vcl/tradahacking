@@ -106,6 +106,8 @@ layout: compress
                         animationDelay -= 500;
                     }
                 }
+                var deadline = new Date(Date.parse("{{site.eventStartTime}}"));
+                initializeClock('clockdiv', deadline);
             });
         {% elsif page.permalink == '/logistics/' %}
             var googleMaps = 'logistics',

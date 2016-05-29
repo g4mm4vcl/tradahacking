@@ -1,5 +1,5 @@
-<script type="text/javascript">
-    function getTimeRemaining(endtime) {
+<script>
+function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
   var seconds = Math.floor((t / 1000) % 60);
   var minutes = Math.floor((t / 1000 / 60) % 60);
@@ -38,28 +38,25 @@ function initializeClock(id, endtime) {
   var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
-initializeClock('clockdiv', deadline);
-
 </script>
 
 
 <div id="clockdiv">
   <div>
     <span class="days"></span>
-    <div class="smalltext">Ngày</div>
+    <div class="clocktext">Ngày</div>
   </div>
   <div>
     <span class="hours"></span>
-    <div class="smalltext">Giờ</div>
+    <div class="clocktext">Giờ</div>
   </div>
   <div>
     <span class="minutes"></span>
-    <div class="smalltext">Phút</div>
+    <div class="clocktext">Phút</div>
   </div>
   <div>
     <span class="seconds"></span>
-    <div class="smalltext">Giây</div>
+    <div class="clocktext">Giây</div>
   </div>
 </div>
 
