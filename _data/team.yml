@@ -21,7 +21,7 @@
   rockstar: true
   team: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/xichzo"}
+    - {name: "twitter", link: "https://twitter.com/longledinh"}
 -
   id: 2
   name: "Superkhung"
@@ -45,7 +45,7 @@
   rockstar: true
   team: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/g4mm4"}
+    - {name: "twitter", link: "https://twitter.com/xchym"}
 -
   id: 4
   name: "Navokus"
@@ -69,7 +69,7 @@
   rockstar: true
   team: true
   social:
-    - {name: "twitter", link: "http://twitter.com/sutox"}
+    - {name: "twitter", link: "http://twitter.com/__suto"}
 - 
   id: 6
   name: "ca0nguyen"
@@ -81,7 +81,7 @@
   rockstar: false
   team: true
   social:
-    - {name: "site", link: "http://www.vnsecurity.net/"}
+    - {name: "twitter", link: "https://twitter.com/ca0nguyen"}
 -
   id: 7
   name: "Mạnh Luật"
@@ -93,7 +93,7 @@
   rockstar: true
   team: true
   social:
-    - {name: "site", link: "http://www.vnsecurity.net/"}
+    - {name: "twitter", link: "https://twitter.com/manhluat93"}
 -
   id: 8
   name: "Tín Dương"
@@ -105,5 +105,5 @@
   rockstar: false
   team: true
   social:
-    - {name: "site", link: "http://www.vnsecurity.net/"}
+    - {name: "twitter", link: "https://twitter.com/t1nduong"}
 

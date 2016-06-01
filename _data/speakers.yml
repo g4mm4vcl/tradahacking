@@ -21,7 +21,7 @@
   rockstar: true
   active: true
   social:
-    - {name: "twitter", link: "https://twitter.com/g4mm4"}
+    - {name: "twitter", link: "https://twitter.com/xchym"}
 - 
   id: 2
   name: "suto"
@@ -33,7 +33,7 @@
   rockstar: true
   active: true
   social:
-    - {name: "twitter", link: "http://twitter.com/sutox"}
+    - {name: "twitter", link: "https://twitter.com/__suto"}
 -
   id: 3
   name: "Superkhung"
@@ -51,9 +51,9 @@
   surname: ""
   company: "VNSecurity"
   title: "Thành viên"
-  bio: "Một tài năng trẻ đang lên khác đang đóng vại trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
+  bio: "Một tài năng trẻ đang lên khác đang đóng vai trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
   thumbnailUrl: tinduong.jpg
   rockstar: false
   active: true
   social:
-    - {name: "site", link: "http://www.vnsecurity.net/"}
+    - {name: "twitter", link: "https://twitter.com/t1nduong"}
