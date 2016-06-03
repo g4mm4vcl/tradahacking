@@ -41,7 +41,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://goo.gl/forms/zYmm6CdauKQcQpC72"
+c4pUrl: &c4pUrl "http://goo.gl/forms/zYmm6CdauKQcQpC72"
 c4sponsorsUrl: "/assets/trada.pdf"
 
 
@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Chương trình"}
  - {permalink: "/team/", text: "Ban tổ chức"}
 bottomNavigationLinks:
- - {link: c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4pUrl, text: "Trở thành diễn giả"}
 rightNavigationButtons:
- - {link: c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4pUrl, text: "Trở thành diễn giả"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "11 Tháng 6, 2016"
 typeoutTextValues: '"  11/06", "  Saigon"'
 typeoutFallback: ""
 heroButtons:
- - {link: c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4pUrl, text: "Trở thành diễn giả"}
  - {permalink: "/#tickets", text: "Đăng ký"}
 
 # About Block
