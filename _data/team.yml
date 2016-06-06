@@ -83,18 +83,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/ca0nguyen"}
 -
-  id: 7
-  name: "Mạnh Luật"
-  surname: ""
-  company: "VNSecurity"
-  title: "Strong Mother in L4w"
-  bio: "Một tài năng trẻ đang lên mà có lẽ rất lâu sau nữa Việt Nam mới lại xuất hiện. Trường hợp của em này buộc chúng tôi phải kiểm thử lâm sàng tác dụng tích cực có trong chất thức thần lên não bộ."
-  thumbnailUrl: manhluat.jpg
-  rockstar: true
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/manhluat93"}
--
   id: 8
   name: "Tín Dương"
   surname: ""
