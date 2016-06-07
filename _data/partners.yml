@@ -1,9 +1,8 @@
 - 
   group: "Tài trợ chính"
   elements: 
-    - {name: "Sponsor 1", description: "Sponsor 1", link: "https://url", imageUrl: "sponsor1.png"}
+    - {name: "Sponsor wanted", description: "Vui lòng email cho cho chúng tôi nếu bạn muốn tài trợ cho sự kiện", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
 - 
   group: "Hỗ trợ thông tin"
   elements: 
-    - {name: "Bao chi 1", description: "Bao chi 2", link: "https://www/", imageUrl: "sponsor1.png", width: "120px"}
-    - {name: "Bao chi 2", description: "Bao chi 2", link: "https://www/", imageUrl: "sponsor1.png", width: "120px"}
+    - {name: "Media Sponsor wanted", description: "Vui lòng email cho cho chúng tôi nếu bạn muốn tài trợ thông tin cho sự kiện", link: "mailto:trada@vnsecurity.net?Subject=Media%20Sponsor", imageUrl: "sponsor1.png", width: "120px"}
