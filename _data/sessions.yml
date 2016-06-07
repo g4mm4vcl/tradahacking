@@ -61,7 +61,7 @@
   speakers: []
   language: "Tiếng Việt"
   complexity: "Trung Bình"
-  -
+-
   id: 301
   title: "CTF Workshop - Phần 1"
   description: "Workshop hướng dẫn các chủ đề liên quan đến CTF như RE, Crypto, Exploitation, Forensics, ..."
