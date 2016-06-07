@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-email: "tradahacking@vnsecurity.net"
+email: "trada@vnsecurity.net"
 description: "Trà Đá Hacking"
 baseurl: ""
 url: "http://tradahacking.vnsecurity.net"
@@ -29,7 +29,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "VNSecurity"
 organizerAlternateName: "VNSecurity"
 organizerDescription: "VNSECURITY nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời nhất tại Việt Nam."
-organizerEmail: "tradahacking@vnsecurity.net"
+organizerEmail: "trada@vnsecurity.net"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.vnsecurity.net/"
 
@@ -157,7 +157,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:tradahacking@vnsecurity.net", text: "tradahacking@vnsecurity.net"}
+   - {link: "mailto:trada@vnsecurity.net", text: "trada@vnsecurity.net"}
 
 
 # Blog
