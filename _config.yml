@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook0.png"
 
 # Documents
 c4pUrl: &c4pUrl "http://goo.gl/forms/zYmm6CdauKQcQpC72"
-c4sponsorsUrl: "/assets/trada.pdf"
+c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Sponsor"
 
 
 # Navigation
