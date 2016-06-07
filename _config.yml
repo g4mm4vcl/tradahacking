@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "người tham dự", detail: ""}
- - {count: "4", specialCharacter: "+", info: "giờ", detail: ""}
- - {count: "4", specialCharacter: "+", info: "diễn giả", detail: ""}
- - {count: "4", specialCharacter: "", info: "chủ đề", detail: ""}
+ - {count: "3.5", specialCharacter: "+", info: "giờ", detail: ""}
+ - {count: "5", specialCharacter: "+", info: "diễn giả", detail: ""}
+ - {count: "5", specialCharacter: "", info: "chủ đề", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Tin mới"
@@ -130,7 +130,7 @@ subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Phí tham dự"
-ticketsInfo: "Trà Đá Hacking chỉ thu phí 50.000 VNĐ cho việc thuê địa điểm tổ chức."
+ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức. Phí dự kiến là 50.000 VNĐ nhưng có thể thay đổi tuỳ vào địa điểm tổ chức và số người tham dự."
 ticketsOffers:
  -
   name: "Phí tham dự"
