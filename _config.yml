@@ -58,8 +58,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "25 Tháng 6, 2016"
-typeoutTextValues: '"  25/06", "  Saigon"'
+eventDate: "18 Tháng 6, 2016"
+typeoutTextValues: '"  18/06", "  Saigon"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -97,9 +97,9 @@ eventAddressLocality: "Hồ Chí Minh"
 eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "2016-06-25T08:30"
+eventStartTime: "2016-06-18T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2016-06-25T12:00"
+eventEndTime: "2016-06-18T12:00"
 eventPlaceCoordinates: "10.764219, 106.656323"
 mapCenterCoordinates: "10.764219, 106.656323"
 mapMobileCenterCoordinates: "10.764219, 106.656323"
