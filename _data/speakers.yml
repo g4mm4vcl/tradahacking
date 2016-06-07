@@ -46,6 +46,7 @@
   active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
+-
   id: 4
   name: "Tín Dương"
   surname: ""
@@ -57,6 +58,7 @@
   active: true
   social:
     - {name: "twitter", link: "https://twitter.com/t1nduong"}
+-
   id: 5
   name: "Peter Nguyễn"
   surname: ""
@@ -67,6 +69,7 @@
   rockstar: false
   active: true
   social:
+-
   id: 6
   name: "TBD"
   surname: ""
