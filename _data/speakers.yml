@@ -57,3 +57,23 @@
   active: true
   social:
     - {name: "twitter", link: "https://twitter.com/t1nduong"}
+  id: 5
+  name: "Peter Nguyễn"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Một tài năng trẻ trên lãnh địa UIT."
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
+  id: 6
+  name: "TBD"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Một lãnh đạo ATTT ngân hàng X"
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
