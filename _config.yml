@@ -130,7 +130,7 @@ subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Phí tham dự"
-ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức. Phí dự kiến là 50.000 VNĐ nhưng có thể thay đổi tuỳ vào địa điểm tổ chức và số người tham dự. <br>Hiện tại trang web chưa cho đăng ký vé. Bạn vui lòng quay lại sau."
+ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức. Phí dự kiến là 50.000 VNĐ nhưng có thể thay đổi tuỳ vào địa điểm tổ chức và số người tham dự. <br /><b>Hiện tại trang web chưa cho đăng ký vé. Bạn vui lòng quay lại sau.</b>"
 ticketsOffers:
  -
   name: "Phí tham dự"
