@@ -30,7 +30,7 @@
 -
   id: 500
   title: "#thảo-luận-mở Bank Swift Attack: The Big Picture"
-  description: ""
+  description: "Thảo luận mở về việc nhiều Ngân hàng trên thế giới (trong đó có TienPhong Bank của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   subtype: presentation
   speakers: [1, 0, 6]
   language: "Tiếng Việt"
