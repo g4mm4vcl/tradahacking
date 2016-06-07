@@ -9,7 +9,8 @@
             <div class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0"></div>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                <!--div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}"-->
+                <div class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
@@ -25,7 +26,6 @@
                                 </svg>
                             </a>
                             {% endfor %}
-                            <p class="bio">{{ teamMember.bio | strip_html }}</p>
                         </figcaption>
                     </figure>
                 </div>
