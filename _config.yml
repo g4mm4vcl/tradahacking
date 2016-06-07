@@ -19,10 +19,10 @@ title: "Trà Đá Hacking"
 email: "trada@vnsecurity.net"
 description: "Trà Đá Hacking"
 baseurl: ""
-url: "http://tradahacking.vnsecurity.net"
+url: "http://trada.vnsecurity.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-78792563-1"
-googleAnalyticsSiteUrl: "tradahacking.vnsecurity.net"
+googleAnalyticsSiteUrl: "trada.vnsecurity.net"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
