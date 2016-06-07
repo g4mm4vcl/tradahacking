@@ -21,8 +21,8 @@
   complexity: "Trung bình"
 -
   id: 102
-  title: "Đánh nó đi"
-  description: "Đánh nó đi vì thiếu tôn trọng tổ chứca"
+  title: "XXX Injection - Beyond classical injection method"
+  description: "tba"
   subtype: presentation
   speakers: [1]
   language: "Tiếng Việt"
@@ -30,6 +30,24 @@
   video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
   id: 103
+  title: "Swift Attack: The Big Picture"
+  description: "tba"
+  subtype: presentation
+  speakers: [5]
+  language: "Tiếng Việt"
+  complexity: "Trung Bình"
+  video: "https://www.youtube.com/embed/YPhloZeMCW4"
+-
+  id: 104
+  title: "From memory corruption to exploitation"
+  description: "tba"
+  subtype: presentation
+  speakers: [6]
+  language: "Tiếng Việt"
+  complexity: "Khó"
+  video: "https://www.youtube.com/embed/YPhloZeMCW4"
+-
+  id: 105
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   description: "Thảo luận liên quan đến vụ việc các Ngân hàng trên thế giới (trong đó có TBP của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT blah blah"
   subtype: presentation
