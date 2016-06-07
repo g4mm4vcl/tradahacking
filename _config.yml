@@ -58,8 +58,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "11 Tháng 6, 2016"
-typeoutTextValues: '"  11/06", "  Saigon"'
+eventDate: "25 Tháng 6, 2016"
+typeoutTextValues: '"  25/06", "  Saigon"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -92,14 +92,14 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 locationBlockTitle: "Địa điểm"
 eventLocationName: "Sài Gòn"
 eventLocationLink: "http://xxx/"
-eventStreetAddress: "182 Lê Đại Hành, Quận 11"
+eventStreetAddress: "Sẽ thông báo sau"
 eventAddressLocality: "Hồ Chí Minh"
 eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "2016-06-11T09:00"
+eventStartTime: "2016-06-25T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2016-06-11T12:00"
+eventEndTime: "2016-06-25T12:00"
 eventPlaceCoordinates: "10.764219, 106.656323"
 mapCenterCoordinates: "10.764219, 106.656323"
 mapMobileCenterCoordinates: "10.764219, 106.656323"
@@ -108,7 +108,7 @@ mapMobileCenterCoordinates: "10.764219, 106.656323"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "182 Lê Đại Hành, Quận 11, TP Hồ Chí Minh"
+venueTitle: "Sẽ thông báo sau"
 venueFeatures: [""]
 
 # Tweets Feed Block
@@ -141,7 +141,7 @@ ticketsOffers:
   buyButtonLink: "http://www.vnsecurity.net"
   buyButtonText: "Đăng ký"
   ticketContentList: [""]
-  validThrough: "2016-06-11"
+  validThrough: "2016-06-25"
 
 
 # Footer
