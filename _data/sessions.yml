@@ -27,7 +27,6 @@
   speakers: [1]
   language: "Tiếng Việt"
   complexity: "Khó"
-  video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
   id: 500
   title: "Swift Attack: The Big Picture"
@@ -44,7 +43,6 @@
   speakers: [5]
   language: "Tiếng Việt"
   complexity: "Khó"
-  video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
   id: 201
   title: "#lightningtalk 1"
