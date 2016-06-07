@@ -115,7 +115,7 @@ venueFeatures: [""]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "tradahacking"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://"
 
 # Partners Block
 organizersTitle: "Ban tổ chức"
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Trở thành nhà tài trợ"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Đăng ký để nhận thông tin mới"
 subscribeAction: "http://www.vnsecurity.net"
-subscribeInfo: "Số lượng vé có hạn. Đăng ký sẽ kết thúc vào 12 giờ trưa 10/06/2016!"
+subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Phí tham dự"
