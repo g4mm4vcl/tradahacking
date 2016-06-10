@@ -59,7 +59,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/t1nduong"}
 -
-  id: 5
+  id: 101
   name: "Peter Nguyễn"
   surname: ""
   company: ""
@@ -70,7 +70,18 @@
   active: true
   social:
 -
-  id: 6
+id: 102
+  name: "Jerold Hoong"
+  surname: ""
+  company: "Lazada Group"
+  title: ""
+  bio: ""
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
+-
+  id: 103
   name: "TBD"
   surname: ""
   company: ""
