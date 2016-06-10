@@ -91,3 +91,25 @@
   rockstar: false
   active: true
   social:
+-
+  id: 104
+  name: "Gabriel Mino"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
+-
+  id: 105
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
