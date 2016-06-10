@@ -1,9 +1,9 @@
 -
   id: 666
-  title: "Hỏi đáp - Giải lao"
+  title: "Giải lao"
   place: "Hall"
   service: true
-  description: "Hỏi đáp, thảo luận với diễn giả và giải lao"
+  description: "Giải lao - Thảo luận với diễn giả"
 -
   id: 001
   title: "Giới thiệu Trà Đá Hacking"
