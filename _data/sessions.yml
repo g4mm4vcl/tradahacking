@@ -9,7 +9,7 @@
   title: "Giới thiệu Trà Đá Hacking"
   subtype: keynote
   speakers: [0]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Dễ"
 -
   id: 101
@@ -17,7 +17,7 @@
   description: ""
   subtype: presentation
   speakers: [2]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Trung bình"
 -
   id: 102
@@ -25,7 +25,7 @@
   description: "tba"
   subtype: presentation
   speakers: [1]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Khó"
 -
   id: 500
@@ -33,7 +33,7 @@
   description: "Thảo luận mở về việc nhiều Ngân hàng trên thế giới (trong đó có TienPhong Bank của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   subtype: presentation
   speakers: [1, 0, 103]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Trung Bình"
 -
   id: 103
@@ -41,15 +41,15 @@
   description: "Ngày nay việc khai thác bug trở nên khó khăn hơn bởi nhiều yếu tố khác nhau (mitigation, code flow), nhằm nâng cao kiến thức về cách exploit cũng như là find bug, tôi tiến hành phân tích CVE-2016-3141 và cố đưa nó từ một bug cho phep đọc dữ liệu từ memory đến  một bug có khả năng thực thi code của mình."
   subtype: presentation
   speakers: [101]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Khó"
 -
   id: 201
-  title: "#lightningtalk How to Get Started in Finding 0-Days - A Use Case"
+  title: "#lightning How to Get Started in Finding 0-Days - A Use Case"
   description: ""
   subtype: presentation
   speakers: [102]
-  language: "English"
+  language: "EN"
   complexity: "Trung Bình"
 -
   id: 202
@@ -57,7 +57,7 @@
   description: "Slot lightning talk này đang trống, hãy trở thành diễn giả chia sẻ kiến thức của bạn!"
   subtype: presentation
   speakers: []
-  language: "Tiếng Việt"
+  language: "EN"
   complexity: "Trung Bình"
 -
   id: 301
@@ -65,6 +65,6 @@
   description: "Workshop hướng dẫn các chủ đề liên quan đến CTF như RE, Crypto, Exploitation, Forensics, ..."
   subtype: presentation
   speakers: [4]
-  language: "Tiếng Việt"
+  language: "VI"
   complexity: "Trung Bình"
 
