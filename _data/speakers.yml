@@ -113,6 +113,7 @@
   rockstar: false
   active: true
   social:
+    - {name: "twitter", link: "https://twitter.com/loianhtuan"}
 -
   id: 105
   name: "DuongKai"
@@ -124,4 +125,4 @@
   rockstar: false
   active: true
   social:
-      - {name: "twitter", link: "https://twitter.com/duongkai"}
+    - {name: "twitter", link: "https://twitter.com/duongkai"}
