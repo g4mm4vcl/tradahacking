@@ -69,7 +69,7 @@
   complexity: "Trung Bình"
 -
   id: 1010
-  title: "IPS và một số kỹ thuật vượt rào"
+  title: "#infosec IPS và một số kỹ thuật vượt rào"
   description: "Tác giả sẽ giới thiệu về cách hoạt động của IPS, đồng thời bàn về các điểm yếu của IPS thường được malware/attacker khai thác để bypass"
   subtype: presentation
   speakers: [105]
