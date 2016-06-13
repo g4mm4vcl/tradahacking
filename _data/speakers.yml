@@ -82,7 +82,7 @@
   social:
 -
   id: 103
-  name: "QuangLQ"
+  name: "ChinhLQ"
   surname: ""
   company: ""
   title: ""
@@ -108,7 +108,7 @@
   surname: ""
   company: "VNSecurity"
   title: "Trùm bối rối"
-  bio: "Tony Lôi, còn gọi là k9, là một chuyên gia với kỹ năng “đánh hơi” và “tìm vết” các vụ án số xuất sắc. Quá khứ và hiện tại anh đã và đang là kỹ sư của các hãng bảo mật lớn trên thế giới. Công việc chính của anh là tìm cách phá hỏng và xây dựng các hệ thống IDS/IPS hiện đại."
+  bio: "Tony Lôi với bí danh K9 là một chuyên gia với kỹ năng “đánh hơi” và “tìm vết” các vụ án số xuất sắc. Quá khứ và hiện tại anh đã và đang là kỹ sư của các hãng bảo mật lớn trên thế giới. Công việc chính của anh là tìm cách phá hỏng và xây dựng các hệ thống IDS/IPS hiện đại."
   thumbnailUrl: johndoe.jpg
   rockstar: false
   active: true
@@ -124,3 +124,4 @@
   rockstar: false
   active: true
   social:
+      - {name: "twitter", link: "https://twitter.com/duongkai"}
