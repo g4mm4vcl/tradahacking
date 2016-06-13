@@ -90,9 +90,9 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Sài Gòn"
-eventLocationLink: "http://xxx/"
-eventStreetAddress: "Sẽ thông báo sau"
+eventLocationName: "Flemington Tower - Tầng 3"
+eventLocationLink: ""
+eventStreetAddress: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
 eventAddressLocality: "Hồ Chí Minh"
 eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
