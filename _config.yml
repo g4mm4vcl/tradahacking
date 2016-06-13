@@ -136,7 +136,7 @@ ticketsOffers:
   name: "Vé mua trước 16/06"
   price: "60.000 "
   priceCurrency: "VND"
-  ticketsNumber: "150"
+  ticketsNumber: "100"
   ribbon: "0%"
   buyButtonLink: "https://ticketbox.vn/event/tradahacking-61514/35610"
   buyButtonText: "Đăng ký tham dự"
