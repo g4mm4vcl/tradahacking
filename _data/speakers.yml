@@ -42,7 +42,7 @@
   title: "Chuyện gia dịch ngược "
   bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
   thumbnailUrl: superkhung.jpg
-  rockstar: true
+  rockstar: false
   active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -52,7 +52,7 @@
   surname: ""
   company: "VNSecurity"
   title: "Thành viên"
-  bio: "Một tài năng trẻ đang lên khác đang đóng vai trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
+  bio: "Một tài năng trẻ đang lên tại VNSecurity và anh đang đóng vai trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
   thumbnailUrl: tinduong.jpg
   rockstar: false
   active: true
@@ -86,7 +86,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: "Một chuyên gia ATTT đang làm việc tại ngân hàng ở Việt nam"
+  bio: "Chuyên gia ATTT đang làm việc tại ngân hàng ở Việt nam"
   thumbnailUrl: johndoe.jpg
   rockstar: false
   active: true
@@ -119,7 +119,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Chuyên gia bảo mật của 1 tập đoàn công nghệ hàng đầu"
   thumbnailUrl: johndoe.jpg
   rockstar: false
   active: true
