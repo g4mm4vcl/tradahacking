@@ -32,7 +32,7 @@
   title: "#panel-discussion Bank Swift Attack: The Big Picture"
   description: "Thảo luận mở về việc nhiều Ngân hàng trên thế giới (trong đó có TienPhong Bank của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   subtype: presentation
-  speakers: [1, 0, 103]
+  speakers: [1, 0, 103, 105]
   language: "VI"
   complexity: "Trung Bình"
 -
@@ -72,6 +72,6 @@
   title: "#infosec IPS và một số kỹ thuật vượt rào"
   description: "Tác giả sẽ giới thiệu về cách hoạt động của IPS, đồng thời bàn về các điểm yếu của IPS thường được malware/attacker khai thác để bypass"
   subtype: presentation
-  speakers: [105]
+  speakers: [5]
   language: "VI"
   complexity: "Trung bình"

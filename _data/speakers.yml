@@ -82,11 +82,11 @@
   social:
 -
   id: 103
-  name: "TBD"
+  name: "QuangLQ"
   surname: ""
   company: ""
   title: ""
-  bio: "Chuyên gia ATTT đang làm việc tại ngân hàng ở Việt nam"
+  bio: "Một chuyên gia ATTT đang làm việc tại ngân hàng ở Việt nam"
   thumbnailUrl: johndoe.jpg
   rockstar: false
   active: true
@@ -103,12 +103,23 @@
   active: true
   social:
 -
-  id: 105
+  id: 5
   name: "k9"
   surname: ""
   company: "VNSecurity"
   title: "Trùm bối rối"
   bio: "Tony Lôi, còn gọi là k9, là một chuyên gia với kỹ năng “đánh hơi” và “tìm vết” các vụ án số xuất sắc. Quá khứ và hiện tại anh đã và đang là kỹ sư của các hãng bảo mật lớn trên thế giới. Công việc chính của anh là tìm cách phá hỏng và xây dựng các hệ thống IDS/IPS hiện đại."
+  thumbnailUrl: johndoe.jpg
+  rockstar: false
+  active: true
+  social:
+-
+  id: 105
+  name: "DuongKai"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
   thumbnailUrl: johndoe.jpg
   rockstar: false
   active: true
