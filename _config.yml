@@ -130,10 +130,10 @@ subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Phí tham dự"
-ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức. Phí dự kiến là 60.000 VNĐ nhưng có thể thay đổi tuỳ vào địa điểm tổ chức và số người tham dự. <br />"
+ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức.<br />"
 ticketsOffers:
  -
-  name: "Phí tham dự"
+  name: "Vé mua trước 16/06"
   price: "60.000 "
   priceCurrency: "VND"
   ticketsNumber: "150"
@@ -141,8 +141,18 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/tradahacking-61514/35610"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validThrough: "2016-06-18"
-
+  validThrough: "2016-06-16T00:00"
+ -
+  name: "Vé mua sau 16/06"
+  price: "100.000 "
+  priceCurrency: "VND"
+  ticketsNumber: "50"
+  ribbon: "0%"
+  buyButtonLink: "https://ticketbox.vn/event/tradahacking-61514/35610"
+  buyButtonText: "Đăng ký tham dự"
+  ticketContentList: [""]
+  validFrom: "2016-06-16T00:00"
+  validThrough: "2016-06-18T06:00"
 
 # Footer
 socialLinks:
