@@ -130,7 +130,7 @@ subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Phí tham dự"
-ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí vừa đủ cho việc tổ chức sự kiện và thuê địa điểm tổ chức.<br />"
+ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí tượng trưng để hỗ trợ 'một phần' chi phí tổ chức sự kiện và địa điểm. BTC cũng tặng vé miễn phí cho một số lượng lớn các sinh viên đam mê bảo mật. Tất cả các tiền tài trợ sau khi trừ chi phí nếu còn dư sẽ được sử dụng để tổ chức các kỳ Trà Đá Hacking sau.<br />"
 ticketsOffers:
  -
   name: "Vé mua trước 16/06"
