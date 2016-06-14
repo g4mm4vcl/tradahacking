@@ -3,6 +3,10 @@
   elements: 
     - {name: "CMC InfoSec", description: "CMC InfoSec", link: "#", imageUrl: "cmc.jpg"}
 - 
+  group: "Tài trợ địa điểm"
+  elements:
+    - {name: "VNG", description: "VNG Corporation", link: "#", imageUrl: "vng.png"}
+-
   group: "Hỗ trợ thông tin"
   elements: 
     - {name: "INCO Startup Center", description: "INCO Startup Center", link: "#", imageUrl: "inco.png", width: "120px"}
