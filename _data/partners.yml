@@ -1,13 +1,10 @@
 - 
   group: "Nhà tài trợ"
   elements: 
-    - {name: "CMC InfoSec", description: "CMC InfoSec", link: "#", imageUrl: "cmc.jpg"}
-- 
-  group: "Tài trợ địa điểm"
-  elements:
-    - {name: "VNG", description: "VNG Corporation", link: "#", imageUrl: "vng.png"}
+    - {name: "CMC InfoSec", description: "CMC InfoSec - Tài trợ một phần kinh phí tổ chức", link: "#", imageUrl: "cmc.jpg"}
+    - {name: "VNG", description: "VNG - Tài trợ địa điểm tổ chức", link: "#", imageUrl: "vng.png"}
 -
-  group: "Hỗ trợ thông tin"
+  group: "Hỗ trợ truyền thông"
   elements: 
-    - {name: "INCO Startup Center", description: "INCO Startup Center", link: "#", imageUrl: "inco.png", width: "120px"}
-    - {name: "UNESCO-CEP", description: "Trung Tâm UNESCO Văn hóa Giáo dục và Đào tạo", link: "#", imageUrl: "unesco-cep.png", width: "120px"}
+    - {name: "INCO Startup Center", description: "INCO Startup Center - Hỗ trợ truyền thông", link: "#", imageUrl: "inco.png", width: "120px"}
+    - {name: "UNESCO-CEP", description: "Trung Tâm UNESCO Văn hóa Giáo dục và Đào tạo - Hỗ trợ truyền thông", link: "#", imageUrl: "unesco-cep.png", width: "120px"}
