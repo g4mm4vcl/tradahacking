@@ -21,8 +21,8 @@
   complexity: "Trung bình"
 -
   id: 102
-  title: "#infosec XXX Injection - Beyond classical injection method"
-  description: "tba"
+  title: "#infosec XXX Injection - Beyond classical injection methods"
+  description: ""
   subtype: presentation
   speakers: [1]
   language: "VI"
@@ -61,8 +61,8 @@
   complexity: "Trung Bình"
 -
   id: 301
-  title: "#ctf CTF Workshop - Phần 1"
-  description: "Workshop hướng dẫn các chủ đề liên quan đến CTF như RE, Crypto, Exploitation, Forensics, ..."
+  title: "#ctf CTF 101 Workshop - Phần 1"
+  description: "Workshop giới thiệu và hướng dẫn cơ bản về Capture The Flag - Software Exploitation at the high level"
   subtype: presentation
   speakers: [4]
   language: "VI"
