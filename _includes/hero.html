@@ -11,7 +11,7 @@
             <div style="display:none">
                 {% include countdown.html %}
             </div>
-            <div class="top-section-text"><p>Đang diễn ra</p></div>
+            <div class="top-section-text"><p>Đã kết thúc</p></div>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
