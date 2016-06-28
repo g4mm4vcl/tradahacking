@@ -50,6 +50,7 @@ navigationLinks:
  - {permalink: "/", text: "Trang Chủ"}
  - {permalink: "/schedule/", text: "Chương trình"}
  - {permalink: "/team/", text: "Ban tổ chức"}
+ - {permalink: "/archives/", text: "Thư viện lưu trữ"}
 bottomNavigationLinks:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
 rightNavigationButtons:
