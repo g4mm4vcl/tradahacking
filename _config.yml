@@ -75,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "người tham dự", detail: ""}
+ - {count: "200", specialCharacter: "+", info: "người tham dự", detail: ""}
  - {count: "4", specialCharacter: "", info: "giờ", detail: ""}
- - {count: "5", specialCharacter: "+", info: "diễn giả", detail: ""}
- - {count: "5", specialCharacter: "", info: "chủ đề", detail: ""}
+ - {count: "8", specialCharacter: "+", info: "diễn giả", detail: ""}
+ - {count: "7", specialCharacter: "", info: "chủ đề", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Tin mới"
