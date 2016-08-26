@@ -5,6 +5,16 @@
     - {title: "Trà Đá Hacking", color: "#90be4e"}
   timeslots:
     - {
+    	startTime: "09:00",
+    	endTime: "11:00",
+    	sessionIds: [2000]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "14:10",
+    	sessionIds: [001]
+    }
+    - {
     	startTime: "14:00",
     	endTime: "14:10",
     	sessionIds: [001]

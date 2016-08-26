@@ -89,3 +89,12 @@
   language: "VI"
   complexity: "Trung bình"
   presentation: ""
+-
+  id: 2000
+  title: "Private Session"
+  description: "Private Security Discussion"
+  subtype: presentation
+  speakers: []
+  language: "VI"
+  complexity: "Trung bình"
+  presentation: ""
