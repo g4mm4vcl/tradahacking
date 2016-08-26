@@ -73,6 +73,14 @@
   language: "VI"
   complexity: "Trung Bình"
 -
+  id: 103
+  title: "#infosec Cập nhật sau"
+  description: "Cập nhật sau"
+  subtype: presentation
+  speakers: []
+  language: "VI"
+  complexity: "Trung Bình"
+-
   id: 1010
   title: "#infosec Cập nhật sau"
   description: "Cập nhật sau"
