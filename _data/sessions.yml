@@ -6,27 +6,28 @@
   description: "Giải lao - Thảo luận với diễn giả"
 -
   id: 001
-  title: "Giới thiệu Trà Đá Hacking"
+  title: "Giới thiệu Trà Đá Hacking #02"
   subtype: keynote
   speakers: [0]
   language: "VI"
   complexity: "Dễ"
 -
   id: 101
-  title: "#infosec Fuzzing: Nghệ thuật tìm lỗi phần mềm đương đại"
+  title: "TDB"
   description: ""
   subtype: presentation
-  speakers: [2]
+  speakers: []
   language: "VI"
   complexity: "Trung bình"
 -
   id: 102
-  title: "#infosec XXX Injection - Beyond classical injection methods"
+  title: "#infosec XXX Injection - Beyond classical injection methods - Phần 2"
   description: ""
   subtype: presentation
   speakers: [1]
   language: "VI"
   complexity: "Khó"
+  presentation: "/archives/slides/TraDaHacking01-Beyond.Classical.Injection.Methods-Part1_G4mm4.pdf"
 -
   id: 500
   title: "#panel-discussion Bank Swift Attack: The Big Picture"
@@ -35,6 +36,7 @@
   speakers: [1, 0, 103, 105]
   language: "VI"
   complexity: "Trung Bình"
+  presentation: "/archives/slides/TraDaHacking01-Bank.Swift.Attack-OpenDiscussion.pdf"
 -
   id: 103
   title: "#infosec From memory corruption to exploitation"
@@ -43,6 +45,7 @@
   speakers: [101]
   language: "VI"
   complexity: "Khó"
+  presentation: "/archives/slides/TraDaHacking01-From.Memory.Corruption.to.Exploitation_Peter.Nguyen.pdf"
 -
   id: 201
   title: "#lightning How to Get Started in Finding 0-Days - A Use Case"
@@ -51,6 +54,7 @@
   speakers: [102]
   language: "EN"
   complexity: "Trung Bình"
+  presentation: "/archives/slides/TraDaHacking01-How.to.Get.Started.in.Finding.0Days–A.Use.Case_Jerold.Hoong.pdf"
 -
   id: 202
   title: "#lightning Meet Voltron: An Open Source, cross-platform, extensible UI for your favorite (scriptable) CLI debugger!"
@@ -59,6 +63,7 @@
   speakers: [104]
   language: "EN"
   complexity: "Trung Bình"
+  presentation: "/archives/slides/TraDaHacking01-Meet.Voltron_Gabriel.Mino.pdf"
 -
   id: 301
   title: "#ctf CTF 101 Workshop - Phần 1"
@@ -75,3 +80,4 @@
   speakers: [5]
   language: "VI"
   complexity: "Trung bình"
+  presentation: "/archives/slides/TraDaHacking01-IPS.Bypass.Techniques_Tony.Loi.pdf"
