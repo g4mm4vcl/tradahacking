@@ -27,7 +27,6 @@
   speakers: [1]
   language: "VI"
   complexity: "Khó"
-  presentation: ""
 -
   id: 500
   title: "#panel-discussion Cập nhật sau"
@@ -36,7 +35,6 @@
   speakers: []
   language: "VI"
   complexity: "Trung Bình"
-  presentation: ""
 -
   id: 103
   title: "#infosec Cập nhật sau"
@@ -45,7 +43,6 @@
   speakers: []
   language: "VI"
   complexity: "Khó"
-  presentation: ""
 -
   id: 201
   title: "#lightning Cập nhật sau"
@@ -54,7 +51,6 @@
   speakers: []
   language: "EN"
   complexity: "Trung Bình"
-  presentation: ""
 -
   id: 202
   title: "#lightning Cập nhật sau"
@@ -63,7 +59,6 @@
   speakers: []
   language: "EN"
   complexity: "Trung Bình"
-  presentation: ""
 -
   id: 301
   title: "#ctf CTF 101 Workshop - Phần 2"
@@ -88,13 +83,11 @@
   speakers: []
   language: "VI"
   complexity: "Trung bình"
-  presentation: ""
 -
   id: 2000
-  title: "Private Session"
+  title: "Private S"
   description: "Private Security Discussion"
   subtype: presentation
   speakers: []
   language: "VI"
   complexity: "Trung bình"
-  presentation: ""
