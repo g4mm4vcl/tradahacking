@@ -85,8 +85,8 @@
   complexity: "Trung bình"
 -
   id: 2000
-  title: "Private S"
-  description: "Private Security Discussion"
+  title: "Private Session (invited only)"
+  description: "Lưu ý đây là các bài chia sẻ và thảo luận kín chỉ dành có khách mời. Người đăng ký mua vé tham dự sẽ chỉ được tham gia chương trình buổi chiều."
   subtype: presentation
   speakers: []
   language: "VI"
