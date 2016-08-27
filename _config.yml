@@ -143,7 +143,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: "0%"
-  buyButtonLink: "#"
+  buyButtonLink: "https://ticketbox.vn/event/tradahacking-62467/37074"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
   validThrough: "2016-09-04T00:00"
@@ -153,7 +153,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "50"
   ribbon: "0%"
-  buyButtonLink: "#"
+  buyButtonLink: "https://ticketbox.vn/event/tradahacking-62467/37074"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
   validFrom: "2016-09-04T00:00"
