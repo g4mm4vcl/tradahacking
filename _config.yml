@@ -64,7 +64,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "16 Tháng 9, 2016"
-typeoutTextValues: '"  16/09", "  Hanoi"'
+typeoutTextValues: '"  16/09", "  Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân, Hà Nội"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
