@@ -97,7 +97,7 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 locationBlockTitle: "Địa điểm"
 eventLocationName: "Hà Nội"
 eventLocationLink: ""
-eventStreetAddress: ""
+eventStreetAddress: "Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân"
 eventAddressLocality: ""
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: "21.036392, 105.834989"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Sẽ thông báo sau"
+venueTitle: "Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân, Hà Nội"
 venueFeatures: [""]
 
 # Tweets Feed Block
