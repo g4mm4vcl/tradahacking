@@ -22,24 +22,12 @@
   active: true
   social:
     - {name: "twitter", link: "https://twitter.com/xchym"}
-- 
-  id: 2
-  name: "Suto"
-  surname: ""
-  company: "VNSecurity"
-  title: "Chuyên gia dò lỗ"
-  bio: "Là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán -1day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
-  thumbnailUrl: suto.jpg
-  rockstar: true
-  active: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/__suto"}
 -
-  id: 3
+  id: 2
   name: "Superkhung"
   surname: ""
   company: "VNSecurity"
-  title: "Chuyện gia dịch ngược "
+  title: "Chuyên gia dịch ngược "
   bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
   thumbnailUrl: superkhung.jpg
   rockstar: false
@@ -47,82 +35,52 @@
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
-  id: 4
-  name: "Tín Dương"
+  id: 3
+  name: "Nguyễn Anh Quỳnh"
   surname: ""
   company: "VNSecurity"
-  title: "Thành viên"
-  bio: "Một tài năng trẻ đang lên tại VNSecurity và anh đang đóng vai trò đại ca lãnh đạo của giới giang hồ mạng đất UIT."
-  thumbnailUrl: tinduong.jpg
+  title: "Researcher + coder"
+  bio: " "
+  thumbnailUrl: aquynh.jpg
   rockstar: false
-  active: true
+  active: false
   social:
-    - {name: "twitter", link: "https://twitter.com/t1nduong"}
+    - {name: "site", link: "http://www.vnsecurity.net/"}
 -
-  id: 101
-  name: "Peter Nguyễn"
+  id: 4
+  name: "Lê Nguyên Khang"
   surname: ""
   company: ""
-  title: ""
-  bio: "Một tài năng trẻ trên lãnh địa UIT."
-  thumbnailUrl: johndoe.jpg
+  title: "Chuyên gia dịch ngược "
+  bio: "Hiện tại tôi phụ trách về ATTT cho VCCorp. Nghiệp vụ chính của tôi là giúp đỡ cho các em gái Kenh14, Admicro, Zamba bớt âu lo khi đời thường không như ý muốn."
+  thumbnailUrl: hacnho.jpg
   rockstar: false
-  active: true
+  active: false
   social:
--
-  id: 102
-  name: "Jerold Hoong"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "Jerold is a penetration tester with experience in testing a wide range of systems and applications. During his work he has discovered vulnerabilities in various software."
-  thumbnailUrl: johndoe.jpg
-  rockstar: false
-  active: true
-  social:
--
-  id: 103
-  name: "Quang Chính"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "Chuyên gia ATTT đang làm việc tại ngân hàng ở Việt nam"
-  thumbnailUrl: johndoe.jpg
-  rockstar: false
-  active: true
-  social:
--
-  id: 104
-  name: "Gabriel Mino"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: johndoe.jpg
-  rockstar: false
-  active: true
-  social:
+    - {name: "site", link: ""}
 -
   id: 5
-  name: "k9"
-  surname: ""
-  company: "VNSecurity"
-  title: "Trùm bối rối"
-  bio: "Tony Lôi với bí danh K9 là một chuyên gia với kỹ năng “đánh hơi” và “tìm vết” các vụ án số xuất sắc. Quá khứ và hiện tại anh đã và đang là kỹ sư của các hãng bảo mật lớn trên thế giới. Công việc chính của anh là tìm cách phá hỏng và xây dựng các hệ thống IDS/IPS hiện đại."
-  thumbnailUrl: johndoe.jpg
-  rockstar: false
-  active: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/loianhtuan"}
--
-  id: 105
-  name: "DuongKai"
+  name: "Quang Nguyễn"
   surname: ""
   company: ""
   title: ""
-  bio: "Chuyên gia bảo mật của 1 tập đoàn công nghệ hàng đầu"
-  thumbnailUrl: johndoe.jpg
+  bio: "Ban ngày viết code kiếm cơm, ban đêm chơi CTF."
+  thumbnailUrl: quangnh.jpg
   rockstar: false
-  active: true
+  active: false
   social:
-    - {name: "twitter", link: "https://twitter.com/duongkai"}
+    - {name: "site", link: ""}
+-
+  id: 6
+  name: "Vu Huy"
+  surname: ""
+  company: ""
+  title: "Core developer of the CONIKS"
+  bio: "Huy is a core developer of the CONIKS for Tor Messenger project which aims to deploy CONIKS as part of the Tor Messenger system. His research interests include anonymity, privacy and post-quantum cryptography. He's also a CTF player."
+  thumbnailUrl: superkhung.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+
+
