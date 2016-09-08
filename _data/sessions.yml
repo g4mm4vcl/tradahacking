@@ -5,6 +5,13 @@
   service: true
   description: "Giải lao - Thảo luận với diễn giả"
 -
+  id: 000
+  title: "Checkin"
+  subtype: keynote
+  speakers: []
+  language: "VI"
+  complexity: "Dễ"
+-
   id: 001
   title: "Giới thiệu Trà Đá Hacking #02"
   subtype: keynote
