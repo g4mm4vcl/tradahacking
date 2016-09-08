@@ -6,7 +6,7 @@
   description: "Giải lao - Thảo luận với diễn giả"
 -
   id: 000
-  title: "Checkin"
+  title: "Đăng ký và Đón khách"
   subtype: keynote
   speakers: []
   language: "VI"
@@ -57,7 +57,7 @@ Lòng tham và cạm bẫy"
   description: "CONIKS is a key management system that provides transparency and privacy for end-user public keys. CONIKS protects end-to-end encrypted communications against malicious or compromised communication providers and surveillance by storing users' encryption keys in tamper-evident and publicly auditable key directories on the server side. This allows messaging clients to verify the identity of users automatically, and prevents malicious/compromised servers from hijacking secure communications without getting caught."
   subtype: presentation
   speakers: [6]
-  language: "EN"
+  language: "VI"
   complexity: "Trung Bình"
 -
   id: 202
@@ -88,6 +88,6 @@ Lòng tham và cạm bẫy"
   title: "Các bài trình bày dành riêng cho một số khách mời."
   description: "Lưu ý đây là các bài chia sẻ và thảo luận kín chỉ dành cho khách mời. Người đăng ký mua vé tham dự sẽ chỉ được tham gia chương trình buổi chiều."
   subtype: presentation
-  speakers: [0, 2]
+  speakers: []
   language: "VI"
   complexity: "Trung bình"
