@@ -41,7 +41,7 @@
   company: "VNSecurity"
   title: "Researcher + coder"
   bio: " "
-  thumbnailUrl: aquynh.jpg
+  thumbnailUrl: aquynh.png
   rockstar: false
   active: false
   social:
@@ -53,7 +53,7 @@
   company: ""
   title: "Chuyên gia dịch ngược "
   bio: "Hiện tại tôi phụ trách về ATTT cho VCCorp. Nghiệp vụ chính của tôi là giúp đỡ cho các em gái Kenh14, Admicro, Zamba bớt âu lo khi đời thường không như ý muốn."
-  thumbnailUrl: hacnho.jpg
+  thumbnailUrl: nopic.jpg
   rockstar: false
   active: false
   social:
@@ -65,7 +65,7 @@
   company: ""
   title: ""
   bio: "Ban ngày viết code kiếm cơm, ban đêm chơi CTF."
-  thumbnailUrl: quangnh.jpg
+  thumbnailUrl: nopic.jpg
   rockstar: false
   active: false
   social:
@@ -77,7 +77,7 @@
   company: ""
   title: "Core developer of the CONIKS"
   bio: "Huy is a core developer of the CONIKS for Tor Messenger project which aims to deploy CONIKS as part of the Tor Messenger system. His research interests include anonymity, privacy and post-quantum cryptography. He's also a CTF player."
-  thumbnailUrl: anon.jpg
+  thumbnailUrl: nopic.jpg
   rockstar: false
   active: false
   social:

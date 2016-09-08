@@ -69,10 +69,10 @@ Lòng tham và cạm bẫy"
   complexity: "Trung Bình"
 -
   id: 104
-  title: "#infosec Cập nhật sau"
-  description: "Cập nhật sau"
+  title: "Keypatch: binary patcher for IDA Pro"
+  description: "Sửa đổi trực tiếp mã binary là một yêu cầu hay gặp trong phân tích malware, hoặc nhằm thay đổi tính năng của ứng dụng không có mã nguồn đi kèm. Phần mềm tiêu chuẩn cho phân tích binary IDA Pro có cài đặt sẵn chức năng nói trên, nhưng công cụ này bộc lộ rất nhiều nhược điểm. Bài trình bày này giới thiệu Keypatch (http://keystone-engine.org/keypatch), một plugin cho IDA Pro nhằm vào mục đích sửa đổi binary, được thiết kế và xây dựng để khắc phục những vấn đề đã nêu."
   subtype: presentation
-  speakers: []
+  speakers: [3]
   language: "VI"
   complexity: "Trung Bình"
 -
