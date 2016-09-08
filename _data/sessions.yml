@@ -13,42 +13,43 @@
   complexity: "Dễ"
 -
   id: 101
-  title: "Cập nhật sau"
-  description: ""
+  title: "Điều tra chứng cứ số - Đời không như là mơ "
+  description: "Chủ đề tôi muốn chia sẻ liên quan đến điều tra chứng cứ số tại Việt Nam. Chia ra làm 3 phần: Vết thù trên lưng ngựa hoang, Một nửa sự thật đôi khi là sự thật, 
+Lòng tham và cạm bẫy"
   subtype: presentation
-  speakers: []
+  speakers: [4]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 102
-  title: "#infosec XXX Injection - Beyond classical injection methods - Phần 2"
-  description: ""
+  title: "How to get free tickets to #TraDaHacking Conference? Let's check Ticketbox.vn"
+  description: "#bugbounty #silverbullet #Achilles'heel"
   subtype: presentation
   speakers: [1]
   language: "VI"
-  complexity: "Khó"
+  complexity: "Trung bình"
 -
   id: 500
-  title: "#panel-discussion Cập nhật sau"
-  description: "Thảo luận mở về việc chủ đề ..."
+  title: "#panel-discussion Thảo luận mở - Hỏi đáp bàn tròn"
+  description: "Chủ đề sẽ được cập nhật sau"
   subtype: presentation
   speakers: []
   language: "VI"
   complexity: "Trung Bình"
 -
   id: 103
-  title: "#infosec Cập nhật sau"
-  description: "Cập nhật sau"
+  title: "A malware analysis case-study: Deobfuscate Windows malicious obfuscated code"
+  description: "Ngày nay, tác giả của phần mềm mã độc (malware) ngày càng sử dụng các biện pháp tinh vi hơn để bảo vệ malware. Điều đó khiến cho công việc của một người phân tích malware như tôi trở nên khó khăn hơn nhiều lần. Tôi đã gặp một mẫu malware khá thú vị khi sử dụng phương pháp làm rối (obfuscate) mã, thay vì sử dụng một chương trình packer. Qua bài nói này, tôi muốn chia sẻ phương pháp tiếp cận của mình khi phân tích các đoạn mã bị obfuscate và cách xử lý các đoạn mã đó."
   subtype: presentation
-  speakers: []
+  speakers: [5]
   language: "VI"
   complexity: "Khó"
 -
   id: 201
-  title: "#lightning Cập nhật sau"
-  description: ""
+  title: "Bring key transparency to end users"
+  description: "CONIKS is a key management system that provides transparency and privacy for end-user public keys. CONIKS protects end-to-end encrypted communications against malicious or compromised communication providers and surveillance by storing users' encryption keys in tamper-evident and publicly auditable key directories on the server side. This allows messaging clients to verify the identity of users automatically, and prevents malicious/compromised servers from hijacking secure communications without getting caught."
   subtype: presentation
-  speakers: []
+  speakers: [6]
   language: "EN"
   complexity: "Trung Bình"
 -
@@ -58,14 +59,6 @@
   subtype: presentation
   speakers: []
   language: "EN"
-  complexity: "Trung Bình"
--
-  id: 301
-  title: "#ctf CTF 101 Workshop - Phần 2"
-  description: "Workshop giới thiệu và hướng dẫn cơ bản về Capture The Flag - Software Exploitation at the high level"
-  subtype: presentation
-  speakers: []
-  language: "VI"
   complexity: "Trung Bình"
 -
   id: 104
@@ -85,9 +78,9 @@
   complexity: "Trung bình"
 -
   id: 2000
-  title: "Private Sessions (chỉ dành cho một số khách mời cụ thể)"
+  title: "Các bài trình bày dành riêng cho một số khách mời."
   description: "Lưu ý đây là các bài chia sẻ và thảo luận kín chỉ dành cho khách mời. Người đăng ký mua vé tham dự sẽ chỉ được tham gia chương trình buổi chiều."
   subtype: presentation
-  speakers: []
+  speakers: [0, 2]
   language: "VI"
   complexity: "Trung bình"
