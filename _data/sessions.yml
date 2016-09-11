@@ -19,7 +19,7 @@
   language: "VI"
   complexity: "Dễ"
 -
-  id: 101
+  id: 202
   title: "Điều tra chứng cứ số - Đời không như là mơ "
   description: "Chủ đề tôi muốn chia sẻ liên quan đến điều tra chứng cứ số tại Việt Nam. Chia ra làm 3 phần: Vết thù trên lưng ngựa hoang, Một nửa sự thật đôi khi là sự thật, 
 Lòng tham và cạm bẫy"
@@ -60,7 +60,7 @@ Lòng tham và cạm bẫy"
   language: "VI"
   complexity: "Trung Bình"
 -
-  id: 202
+  id: 101
   title: "Internet of Things - Thử thách và Cơ hội"
   description: "Tôi sẽ liệt kê các vấn đề an toàn thông tin mấu chốt của các thiết bị Internet of Things, đề xuất một số hướng nghiên cứu và phát triển sản phẩm để giải quyết các vấn đề này."
   subtype: presentation
