@@ -30,8 +30,8 @@
   title: "Chuyên gia dịch ngược "
   bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
   thumbnailUrl: superkhung.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -63,7 +63,7 @@
   name: "Quang Nguyễn"
   surname: ""
   company: ""
-  title: ""
+  title: "Chuyên gia dịch ngược "
   bio: "Ban ngày viết code kiếm cơm, ban đêm chơi CTF."
   thumbnailUrl: nopic.jpg
   rockstar: false
@@ -87,12 +87,23 @@
   name: "Thai Duong"
   surname: ""
   company: "Google"
-  title: "Internet of Things - Thử thách và Cơ hội"
+  title: ""
   bio: "* Thái là cơ thủ khét tiếng bida dù, từng chấp Lý Thế Vinh 'xổ số'.<br>* Anh ấy là huyền đai đệ eleven đẳng Taekwondo, từng tập luyện và thi đấu chung với Trần Quang Hạ, Trần Hiếu Ngân và Phan Thị Bích Hằng.<br>* Lúc rảnh rỗi Thái đi trượt tuyết. Anh ấy đang tập luyện để đại diện Việt Nam thi Olympics mùa đông kỳ tới.<br>* Thái hiện đang làm việc ở Google. Anh ấy đã có những đóng góp to lớn vào sự thành công của Google, ví dụ như từ lúc anh ấy gia nhập đến nay cổ phiếu của công ty đã tăng gấp 3 lần."
   thumbnailUrl: thaidn.jpg
+  rockstar: true
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 8
+  name: "CMC"
+  surname: ""
+  company: "CMC"
+  title: ""
+  bio: "Đại diện đơn vị phối hợp tổ chức CMC"
+  thumbnailUrl: cmc.jpg
   rockstar: false
   active: false
   social:
     - {name: "site", link: ""}
-
 
