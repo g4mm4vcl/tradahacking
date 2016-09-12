@@ -96,11 +96,11 @@
     - {name: "site", link: ""}
 -
   id: 8
-  name: "CMC"
+  name: "CMC Infosec"
   surname: ""
-  company: "CMC"
+  company: ""
   title: ""
-  bio: "Đại diện đơn vị phối hợp tổ chức CMC"
+  bio: "Đại diện đơn vị phối hợp tổ chức, công ty CMC Infosec"
   thumbnailUrl: cmc.jpg
   rockstar: false
   active: false
