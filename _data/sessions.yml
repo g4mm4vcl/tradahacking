@@ -60,11 +60,11 @@
   complexity: "Trung Bình"
 -
   id: 101
-  title: "Internet of Things - Thử thách và Cơ hội (từ xa)"
+  title: "Internet of Things - Thử thách và Cơ hội (trình bày từ xa)"
   description: "Tôi sẽ liệt kê các vấn đề an toàn thông tin mấu chốt của các thiết bị Internet of Things, đề xuất một số hướng nghiên cứu và phát triển sản phẩm để giải quyết các vấn đề này."
   subtype: presentation
   speakers: [7]
-  language: "EN"
+  language: "VI"
   complexity: "Trung Bình"
 -
   id: 104
