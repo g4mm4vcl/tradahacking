@@ -87,6 +87,6 @@
   title: "Các bài trình bày dành riêng cho một số khách mời."
   description: "Lưu ý đây là các bài chia sẻ và thảo luận kín chỉ dành cho khách mời. Người đăng ký mua vé tham dự sẽ chỉ được tham gia chương trình buổi chiều."
   subtype: presentation
-  speakers: []
+  speakers: [0, 2]
   language: "VI"
   complexity: "Trung bình"
