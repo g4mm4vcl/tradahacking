@@ -6,6 +6,6 @@
 -
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
-    - {name: "INCO Startup Center", description: "INCO Startup Center - Hỗ trợ truyền thông", link: "#", imageUrl: "inco.png", width: "120px"}
-    - {name: "UNESCO-CEP", description: "Trung Tâm UNESCO Văn hóa Giáo dục và Đào tạo - Hỗ trợ truyền thông", link: "#", imageUrl: "unesco-cep.png", width: "120px"}
+    - {name: "Partner ", description: "Please contact if you want to sponsor", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
+    - {name: "Partnet ", description: "Please contact if you want to sponsor", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
 
