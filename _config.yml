@@ -63,8 +63,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "16 Tháng 9, 2016"
-typeoutTextValues: '"  16/09", "  Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân, Hà Nội"'
+eventDate: "14 Tháng 1, 2017"
+typeoutTextValues: '"  14/01", "  182 Lê Đại Hành, Phường 15, Quận 11, TP Hồ Chí Minh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -95,25 +95,25 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Hội trường tầng 5, tòa nhà Trung tâm đào tạo CNTT&TT Hà Nội"
+eventLocationName: "Flemington Tower - Tầng 3"
 eventLocationLink: ""
-eventStreetAddress: "Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân, Thành Phố Hà Nội"
-eventAddressLocality: ""
-eventAddressLocalityRegion: ""
+eventStreetAddress: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
+eventAddressLocality: "Hồ Chí Minh"
+eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "2016-09-16T13:30"
-eventDoorTime: "13:30"
-eventEndTime: "2016-09-16T18:00"
-eventPlaceCoordinates: "21.005832, 105.804041"
-mapCenterCoordinates: "21.005832, 105.804041"
-mapMobileCenterCoordinates: "21.005832, 105.804041"
+eventStartTime: "2017-01-14T08:30"
+eventDoorTime: "09:00"
+eventEndTime: "2017-01-14T12:00"
+eventPlaceCoordinates: "10.764219, 106.656323"
+mapCenterCoordinates: "10.764219, 106.656323"
+mapMobileCenterCoordinates: "10.764219, 106.656323"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Số 1 Hoàng Đạo Thúy, Quận Thanh Xuân, Hà Nội"
+venueTitle: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
 venueFeatures: [""]
 
 # Tweets Feed Block
@@ -138,26 +138,26 @@ ticketsTitle: "Phí tham dự"
 ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí tượng trưng để hỗ trợ 'một phần' chi phí tổ chức sự kiện và địa điểm. BTC cũng tặng vé miễn phí cho một số lượng lớn các sinh viên đam mê bảo mật. Tất cả các tiền tài trợ sau khi trừ chi phí nếu còn dư sẽ được sử dụng để tổ chức các kỳ Trà Đá Hacking sau.<br />"
 ticketsOffers:
  -
-  name: "Vé mua trước 04/09"
-  price: "80.000 "
+  name: "TBA"
+  price: "TBA "
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/event/tradahacking-62467/37074"
+  buyButtonLink: "https://ticketbox.vn/"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validThrough: "2016-09-04T00:00"
+  validThrough: "2017-01-07T00:00"
  -
-  name: "Vé mua sau 04/09"
-  price: "120.000 "
+  name: "TBA"
+  price: "TBA "
   priceCurrency: "VND"
   ticketsNumber: "50"
   ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/event/tradahacking-62467/37074"
+  buyButtonLink: "https://ticketbox.vn/"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validFrom: "2016-09-04T00:00"
-  validThrough: "2016-09-16T08:00"
+  validFrom: "2017-01-07T00:00"
+  validThrough: "2017-01-14T08:00"
 
 
 # Footer
