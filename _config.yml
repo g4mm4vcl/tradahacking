@@ -45,7 +45,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook2.png"
 
 # Documents
-c4pUrl: &c4pUrl "http://goo.gl/forms/zYmm6CdauKQcQpC72"
+c4pUrl: &c4pUrl "http://goo.gl/HTrG3I"
 c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Sponsor"
 
 
@@ -138,27 +138,15 @@ ticketsTitle: "Phí tham dự"
 ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí tượng trưng để hỗ trợ 'một phần' chi phí tổ chức sự kiện và địa điểm. BTC cũng tặng vé miễn phí cho một số lượng lớn các sinh viên đam mê bảo mật. Tất cả các tiền tài trợ sau khi trừ chi phí nếu còn dư sẽ được sử dụng để tổ chức các kỳ Trà Đá Hacking sau.<br />"
 ticketsOffers:
  -
-  name: "TBA"
-  price: "TBA "
+  name: "Vé tham dự"
+  price: "100000 "
   priceCurrency: "VND"
-  ticketsNumber: "150"
+  ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/"
+  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-03-64010/39061"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validThrough: "2017-01-07T00:00"
- -
-  name: "TBA"
-  price: "TBA "
-  priceCurrency: "VND"
-  ticketsNumber: "50"
-  ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/"
-  buyButtonText: "Đăng ký tham dự"
-  ticketContentList: [""]
-  validFrom: "2017-01-07T00:00"
-  validThrough: "2017-01-14T08:00"
-
+  validThrough: "2017-01-14T00:00"
 
 # Footer
 socialLinks:
