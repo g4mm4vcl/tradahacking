@@ -5,6 +5,13 @@
   service: true
   description: "Giải lao - Uống trà cùng diễn giả"
 -
+  id: 999
+  title: "TBA"
+  subtype: presentation
+  speakers: []
+  language: "VI"
+  complexity: "Dễ"
+-
   id: 000
   title: "Đăng ký và Đón khách"
   subtype: keynote
@@ -13,7 +20,7 @@
   complexity: "Dễ"
 -
   id: 001
-  title: "Giới thiệu khai mạc Trà Đá Hacking #02"
+  title: "Giới thiệu khai mạc Trà Đá Hacking #03"
   subtype: keynote
   speakers: [0, 8]
   language: "VI"
