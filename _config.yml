@@ -68,7 +68,7 @@ typeoutTextValues: '"  14/01", "  182 Lê Đại Hành, Phường 15, Quận 11,
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "/#tickets", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/tra-da-hacking-03-64010/39061", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
