@@ -107,3 +107,67 @@
   social:
     - {name: "site", link: ""}
 
+-
+  id: 9
+  name: "Nguyễn Phương Trường Anh - hkln1"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Web/Mobile Pentester at FTEL. Bug hunter at home"
+  thumbnailUrl: na.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+
+-
+  id: 10
+  name: "Lê Phạm Thiên Hồng Ân"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "CTFer (EXPLOIT)"
+  thumbnailUrl: na.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+
+-
+  id: 11
+  name: "Nguyễn Minh Hải"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "nghiên cứu sinh Tiến sĩ tại trường Đại học Bách khoa TP HCM.</br>Đã tham gia báo cáo tại TETCON 2015 và một số hội nghị Quốc tế trong và ngoài nước (APSEC 2013, FPS2015, WCSET2016)."
+  thumbnailUrl: na.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+
+-
+  id: 12
+  name: "Nguyễn Vũ Hoàng - peternguyen"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Thành viên mới của VNSecurity"
+  thumbnailUrl: na.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+
+-
+  id: 13
+  name: "Tạ Đình Sung"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Thành viên team meepwn #noobfromSEA "
+  thumbnailUrl: na.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
