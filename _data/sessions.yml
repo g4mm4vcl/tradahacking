@@ -116,7 +116,7 @@
 -
   id: 303
   title: "Ứng dụng Symbolic Execution với công cụ BE-PUM"
-  description: "Static & dynamic analysis đã có một tuổi đời và tuổi nghề rất lâu trong việc phân tích binary, tuổi cao khiến việc chạy theo các binary trẻ khỏe gần đây rất vất vả. Trong bài nói này chúng ta sẽ cùng tìm hiểu một đại diện trẻ tuổi trong họ nhà analysis, một gương mặt trẻ trung và hợp thời mang một tên đầy hoa mỹ "symbolic execution" (SE). Chúng ta cùng tìm hiểu xem bạn ấy là ai, bạn ấy có thể làm được gì và giới hạn của bạn ấy. Chúng ta sẽ đồng thời tìm hiểu ứng dụng SE với công cụ BE-PUM (Binary Emulation for Pushdown Model)."
+  description: "Static & dynamic analysis đã có một tuổi đời và tuổi nghề rất lâu trong việc phân tích binary, tuổi cao khiến việc chạy theo các binary trẻ khỏe gần đây rất vất vả. Trong bài nói này chúng ta sẽ cùng tìm hiểu một đại diện trẻ tuổi trong họ nhà analysis, một gương mặt trẻ trung và hợp thời mang một tên đầy hoa mỹ 'symbolic execution' (SE). Chúng ta cùng tìm hiểu xem bạn ấy là ai, bạn ấy có thể làm được gì và giới hạn của bạn ấy. Chúng ta sẽ đồng thời tìm hiểu ứng dụng SE với công cụ BE-PUM (Binary Emulation for Pushdown Model)."
   subtype: presentation
   speakers: [11]
   language: "VI"
