@@ -97,3 +97,51 @@
   speakers: [0, 2]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 301
+  title: "Some new vulnerabilities in modern web application (part 2)"
+  description: "Presenting about new vulnerabilities in modern web application that have just published recently"
+  subtype: presentation
+  speakers: [9]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 302
+  title: "The LAZY way to PWN"
+  description: "Sử dụng angr (Symbolic Execution) để kiểm thử lỗi write out bound. Ví du như bài write-up sau http://www.hack2learn.xyz/2016/12/the-lazy-way-to-pwn.html tuy nhiên sẽ chi tiết hơn cách sử dụng và một số hạn chế của angr và cách khắc phục hạn chế. Hướng phát triển?"
+  subtype: presentation
+  speakers: [10]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 303
+  title: "Ứng dụng Symbolic Execution với công cụ BE-PUM"
+  description: "Static & dynamic analysis đã có một tuổi đời và tuổi nghề rất lâu trong việc phân tích binary, tuổi cao khiến việc chạy theo các binary trẻ khỏe gần đây rất vất vả. Trong bài nói này chúng ta sẽ cùng tìm hiểu một đại diện trẻ tuổi trong họ nhà analysis, một gương mặt trẻ trung và hợp thời mang một tên đầy hoa mỹ "symbolic execution" (SE). Chúng ta cùng tìm hiểu xem bạn ấy là ai, bạn ấy có thể làm được gì và giới hạn của bạn ấy. Chúng ta sẽ đồng thời tìm hiểu ứng dụng SE với công cụ BE-PUM (Binary Emulation for Pushdown Model)."
+  subtype: presentation
+  speakers: [11]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 304
+  title: "Hip Help Heap (RealWorld Heap Exploitation)"
+  description: "Trình bày về các phương thức khai thác lỗ hổng trên heap kèm theo các case study từ thực tế qua CVE mà diễn giả tìm được"
+  subtype: presentation
+  speakers: [12]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 305
+  title: "PEDA Heap"
+  description: "Giới thiệu về công cụ peda với tính năng debug heap do chính tác gỉa đóng góp"
+  subtype: presentation
+  speakers: [13]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 306
+  title: "Xe bố đâu rồi"
+  description: "A tale of Car hijacking & iot hacking"
+  subtype: presentation
+  speakers: [2]
+  language: "VI"
+  complexity: "Trung bình"
