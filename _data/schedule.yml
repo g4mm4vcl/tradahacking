@@ -5,42 +5,42 @@
     - {title: "Trà Đá Hacking #3", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "08:30",
-    	endTime: "09:00",
-    	sessionIds: [000]
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [000]
     }
     - {
-    	startTime: "09:00",
-    	endTime: "09:10",
-    	sessionIds: [001]
+        startTime: "09:00",
+        endTime: "09:25",
+        sessionIds: [301]
     }
     - {
-    	startTime: "09:10",
-    	endTime: "09:40",
-    	sessionIds: [999]
+        startTime: "09:30",
+        endTime: "09:45",
+        sessionIds: [302]
     }
     - {
-    	startTime: "09:40",
-    	endTime: "10:10",
-    	sessionIds: [999]
+        startTime: "09:50",
+        endTime: "10:20",
+        sessionIds: [303]
     }
     - {
-    	startTime: "10:10",
-    	endTime: "10:30",
-    	sessionIds: [666]
+        startTime: "10:25",
+        endTime: "10:50",
+        sessionIds: [304]
     }
     - {
-    	startTime: "10:30",
-    	endTime: "11:00",
-    	sessionIds: [999]
+        startTime: "10:50",
+        endTime: "11:05",
+        sessionIds: [666]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [999]
+        startTime: "11:10",
+        endTime: "11:25",
+        sessionIds: [305]
     }
     - {
         startTime: "11:30",
         endTime: "12:00",
-        sessionIds: [999]
+        sessionIds: [306]
     }
