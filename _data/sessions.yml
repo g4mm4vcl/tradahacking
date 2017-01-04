@@ -99,8 +99,8 @@
   complexity: "Trung bình"
 -
   id: 301
-  title: "Some new vulnerabilities in modern web application (part 2)"
-  description: "Presenting about new vulnerabilities in modern web application that have just published recently"
+  title: "Some new vulnerabilities in modern web applications (part 2)"
+  description: "Presenting about new vulnerabilities in modern web applications that have just published recently"
   subtype: presentation
   speakers: [9]
   language: "VI"
@@ -108,7 +108,7 @@
 -
   id: 302
   title: "The LAZY way to PWN"
-  description: "Sử dụng angr (Symbolic Execution) để kiểm thử lỗi write out bound. Ví du như bài write-up sau http://www.hack2learn.xyz/2016/12/the-lazy-way-to-pwn.html tuy nhiên sẽ chi tiết hơn cách sử dụng và một số hạn chế của angr và cách khắc phục hạn chế. Hướng phát triển?"
+  description: "Sử dụng angr (Symbolic Execution) để kiểm thử lỗi write out bound. Ví dụ như bài write-up sau http://www.hack2learn.xyz/2016/12/the-lazy-way-to-pwn.html tuy nhiên sẽ chi tiết hơn cách sử dụng và một số hạn chế của angr và cách khắc phục hạn chế. Hướng phát triển?"
   subtype: presentation
   speakers: [10]
   language: "VI"
@@ -143,5 +143,13 @@
   description: "A tale of Car hijacking & IoT hacking"
   subtype: presentation
   speakers: [2]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 307
+  title: "Basic Reverse Engineering and Skills"
+  description: "Trong những năm gần đây, thông qua các cuộc thi SVATT cùng các thông tin tuyển dụng từ các công ty làm về lĩnh vực InfoSEC hàng đầu tại Việt Nam, nhu cầu tìm hiểu và tuyển dụng về RE ngày càng cao. Nhân cơ hội này tôi (một người nghiên cứu độc lập) muốn chia sẻ với các bạn sinh viên một góc nhìn của tôi về RE và một số kỹ năng, công cụ cần thiết trên con đường nghiên cứu về lĩnh vực khù khoằm này :). Bài trình bày mang tính chất chia sẻ nhẹ nhàng, không mang nặng tính kỹ thuật :D"
+  subtype: presentation
+  speakers: [69]
   language: "VI"
   complexity: "Trung bình"
