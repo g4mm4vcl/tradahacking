@@ -153,11 +153,11 @@
   company: "VNSecurity"
   title: ""
   bio: "Thành viên mới của VNSecurity"
-  thumbnailUrl: na.jpg
+  thumbnailUrl: peter.jpg
   rockstar: false
   active: false
   social:
-    - {name: "site", link: ""}
+    - {name: "site", link: "https://twitter.com/peternguyen14"}
 
 -
   id: 13
