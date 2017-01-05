@@ -171,3 +171,16 @@
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 14
+  name: "Trần Trung Kiên - Kienmanowar"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "admin[at]reaonline.net"
+  thumbnailUrl: kienmanowar.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: "https://kienmanowar.wordpress.com/"}
+
