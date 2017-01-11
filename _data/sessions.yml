@@ -140,7 +140,7 @@
 -
   id: 306
   title: "Denial of Service and blockchain"
-  description: "Nowadays blockchain technology is more popular, every one able to interactive with blockchain and use its service. In fact, blockchain is a computing system and Itself isn't immutable to some popular attack vectors. Denial of Service is one of ancient attack vectors take effect to blockchain."
+  description: "Nowadays blockchain technology is more popular, everyone able to interactive with blockchain and use its service. In fact, blockchain is a computing system and Itself isn't immutable to some popular attack vectors. Denial of Service is one of ancient attack vectors take effect to blockchain."
   subtype: presentation
   speakers: [15]
   language: "VI"
