@@ -183,4 +183,16 @@
   active: false
   social:
     - {name: "site", link: "https://kienmanowar.wordpress.com/"}
+-
+  id: 15
+  name: "Trần Anh Dũng - chiro8x"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: dungtran.jpg
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
 
