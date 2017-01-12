@@ -42,8 +42,8 @@
   title: "Researcher + coder"
   bio: "As a computer security researcher, Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, etc. Being a PhD holder in Computer Science, he also presented his researches in venues such as Usenix, IEEE, ACM, LNCS, etc. As a passionate coder, Dr. Nguyen is the founder and maintainer of open source frameworks Capstone, Unicorn & Keystone. Find the website for Keystone at www.keystone-engine.org"
   thumbnailUrl: aquynh.png
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -54,8 +54,8 @@
   title: "Chuyên gia dịch ngược "
   bio: "Hiện tại tôi phụ trách về ATTT cho VCCorp. Nghiệp vụ chính của tôi là giúp đỡ cho các em gái Kenh14, Admicro, Zamba bớt âu lo khi đời thường không như ý muốn."
   thumbnailUrl: hacnho.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -90,8 +90,8 @@
   title: ""
   bio: "* Thái là cơ thủ khét tiếng bida dù, từng chấp Lý Thế Vinh 'xổ số'.<br>* Anh ấy là huyền đai đệ eleven đẳng Taekwondo, từng tập luyện và thi đấu chung với Trần Quang Hạ, Trần Hiếu Ngân và Phan Thị Bích Hằng.<br>* Lúc rảnh rỗi Thái đi trượt tuyết. Anh ấy đang tập luyện để đại diện Việt Nam thi Olympics mùa đông kỳ tới.<br>* Thái hiện đang làm việc ở Google. Anh ấy đã có những đóng góp to lớn vào sự thành công của Google, ví dụ như từ lúc anh ấy gia nhập đến nay cổ phiếu của công ty đã tăng gấp 3 lần."
   thumbnailUrl: thaidn.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -116,7 +116,7 @@
   bio: "Web/Mobile Pentester at FTEL. Bug hunter at home"
   thumbnailUrl: truonganh.jpg
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: ""}
 
@@ -129,7 +129,7 @@
   bio: "CTFer (EXPLOIT)"
   thumbnailUrl: na.jpg
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: ""}
 
@@ -141,8 +141,8 @@
   title: ""
   bio: "Diễn giả Nguyễn Minh Hải là nghiên cứu sinh tiến sĩ trường Đại học Bách khoa TP HCM, tập trung vào chủ đề phân tích mã độc. Hải cũng đồng thời tham gia giảng dạy ở một số trường Đại học và một số trung tâm như Đại học Công nghiệp, PUF (Đại học Pháp)..."
   thumbnailUrl: minhhai.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
 
@@ -155,7 +155,7 @@
   bio: "Thành viên mới của VNSecurity"
   thumbnailUrl: peter.jpg
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: "https://twitter.com/peternguyen14"}
 
@@ -168,7 +168,7 @@
   bio: "Thành viên team meepwn #noobfromSEA "
   thumbnailUrl: tadinhsung.jpg
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: ""}
 -
@@ -179,8 +179,8 @@
   title: ""
   bio: "admin[at]reaonline.net"
   thumbnailUrl: kienmanowar.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: "https://kienmanowar.wordpress.com/"}
 -
@@ -191,8 +191,8 @@
   title: ""
   bio: "Một tâm hồn thư sinh ẩn dấu trong dáng vẻ của một tay ma cô Lan Quế Phường. Dũng hiện đang trong diện tình nghi là trung gian của các băng nhóm viết Ransomware chuyên nghiệp"
   thumbnailUrl: dungtran.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
 
