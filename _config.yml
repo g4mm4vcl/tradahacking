@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-id: "03"
+id: "04"
 archive: true
 #status: "Trang web đang xây dựnvui lòng quay lại sau"
 status: ""
@@ -63,7 +63,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "14 Tháng 1, 2017"
+eventDate: "Tháng 4, 2017"
 typeoutTextValues: '"  14/01", "  182 Lê Đại Hành, Phường 15, Quận 11, TP Hồ Chí Minh"'
 typeoutFallback: ""
 heroButtons:
@@ -95,7 +95,7 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Flemington Tower - Tầng 3"
+eventLocationName: "HCM"
 eventLocationLink: ""
 eventStreetAddress: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
 eventAddressLocality: "Hồ Chí Minh"
