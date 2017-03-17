@@ -73,7 +73,7 @@ heroButtons:
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
 aboutBlock:
- - {title: "Tại sao là “Trà đá hacking”?", image: "hacked.png", text: "Trong thời đại mà nhà nhà bị hack, người người bị backdoor, vạn vật bị root, xu hướng Internet of Things ở Việt Nam đã, đang và sẽ phơi nhiễm thành Botnet of Things. Sự xuất hiện của “Trà đá hacking” trong bối cảnh hiện nay được ví như ly trà thanh nhiệt giải toả cơn khát giúp thúc đẩy phong trào học tập và nghiên cứu An Ninh thông tin chuyên sâu, cũng như tạo ra một không gian trao đổi và nghiên cứu cho cộng đồng nói chung và các bạn trẻ yêu thích hacking/security ở Việt Nam nói riêng" }
+ - {title: "Tại sao là “Trà đá hacking”?", image: "hacked.png", text: "Trong thời đại mà nhà nhà bị hack, người người bị backdoor, vạn vật bị root, xu hướng Internet of Things ở Việt Nam đã, đang và sẽ phơi nhiễm thành Botnet of Things. Sự xuất hiện của “Trà đá hacking” trong bối cảnh hiện nay được ví như ly trà thanh nhiệt giải toả cơn khát giúp thúc đẩy phong trào học tập và nghiên cứu An Ninh thông tin chuyên sâu, cũng như tạo ra một không gian trao đổi và nghiên cứu cho cộng đồng nói chung và các bạn trẻ yêu thích hacking/security ở Việt Nam nói riêng." }
  - {title: "Ai đứng ra tổ chức?", image: "vnsec.png", text: "Được tổ chức bởi VNSecurity, nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời tại Việt Nam. Nhiều thành viên trong nhóm có những nghiên cứu và sản phẩm được cộng đồng trên thế giới đánh giá cao. Số khác trong đó thường xuyên công bố các lỗ hổng bảo mật nghiêm trọng trong các giao thức xương sống và phần mềm phổ biến trên internet." }
 
 # Statistic Block
