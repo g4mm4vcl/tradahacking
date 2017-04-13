@@ -63,12 +63,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "Tháng 4, 2017"
-typeoutTextValues: '"  14/01", "  182 Lê Đại Hành, Phường 15, Quận 11, TP Hồ Chí Minh"'
+eventDate: "Tháng 5, 2017"
+typeoutTextValues: '"  xx/05", "  182 Lê Đại Hành, Phường 15, Quận 11, TP Hồ Chí Minh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/tra-da-hacking-03-64010/39061", text: "Đăng ký"}
+ - {permalink: "#", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
