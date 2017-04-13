@@ -143,7 +143,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-03-64010/39061"
+  buyButtonLink: "#"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
   validThrough: "2017-01-14T00:00"
