@@ -63,8 +63,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
-eventDate: "Tháng 5, 2017"
-typeoutTextValues: '"  xx/05", "  182 Lê Đại Hành, Phường 15, Quận 11, TP Hồ Chí Minh"'
+eventDate: "13 Tháng 5, 2017"
+typeoutTextValues: '"  13/05", "  Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh, Hồ Chí Minh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -97,23 +97,23 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 locationBlockTitle: "Địa điểm"
 eventLocationName: "HCM"
 eventLocationLink: ""
-eventStreetAddress: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
+eventStreetAddress: "Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh"
 eventAddressLocality: "Hồ Chí Minh"
 eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "2017-01-14T08:30"
+eventStartTime: "2017-05-13T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2017-01-14T12:00"
-eventPlaceCoordinates: "10.764219, 106.656323"
-mapCenterCoordinates: "10.764219, 106.656323"
-mapMobileCenterCoordinates: "10.764219, 106.656323"
+eventEndTime: "2017-05-13T12:00"
+eventPlaceCoordinates: "10.7995444, 106.7031377"
+mapCenterCoordinates: "10.7995444, 106.7031377"
+mapMobileCenterCoordinates: "10.7995444, 106.7031377"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
+venueTitle: "Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh, Hồ Chí Minh"
 venueFeatures: [""]
 
 # Tweets Feed Block
