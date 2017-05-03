@@ -139,7 +139,7 @@ ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi c
 ticketsOffers:
  -
   name: "Vé tham dự"
-  price: "100000 "
+  price: "99000 "
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
