@@ -214,7 +214,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: zx.jpg
   rockstar: false
   active: true
   social:
@@ -226,7 +226,7 @@
   company: ""
   title: ""
   bio: "Just another enthusiasm web sec researcher!"
-  thumbnailUrl:
+  thumbnailUrl: ha.jpg
   rockstar: true
   active: true
   social:
