@@ -180,7 +180,7 @@
 -
   id: 404
   title: "DLL injection techniques"
-  description: "Quick overview on some DLL injection techniques on Windows & present a little tool to statically inject DLL into binary."
+  description: "Quick overview on some DLL injection techniques on Windows and present a little tool to statically inject DLL into binary."
   subtype: presentation
   speakers: [3]
   language: "VI"
