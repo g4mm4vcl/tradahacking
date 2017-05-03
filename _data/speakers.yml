@@ -179,7 +179,7 @@
   title: ""
   bio: "admin[at]reaonline.net"
   thumbnailUrl: kienmanowar.jpg
-  rockstar: true
+  rockstar: false
   active: true
   social:
     - {name: "site", link: "https://kienmanowar.wordpress.com/"}
@@ -191,8 +191,43 @@
   title: ""
   bio: "Một tâm hồn thư sinh ẩn dấu trong dáng vẻ của một tay ma cô Lan Quế Phường. Dũng hiện đang trong diện tình nghi là trung gian của các băng nhóm viết Ransomware chuyên nghiệp"
   thumbnailUrl: dungtran.jpg
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 16
+  name: "suto"
+  surname: ""
+  company: "VNSecurity"
+  title: "Trùm dò lỗ"
+  bio: "Là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
+  thumbnailUrl: suto.jpg
+  rockstar: true
+  active: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/sutox"}
+-
+  id: 17
+  name: "ZX"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 18
+  name: "Huỳnh Hải Âu"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Just another enthusiasm web sec researcher!"
+  thumbnailUrl:
   rockstar: true
   active: true
   social:
     - {name: "site", link: ""}
-
