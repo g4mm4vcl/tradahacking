@@ -201,3 +201,11 @@
   speakers: [0]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 407
+  title: "DLL injection techniques"
+  description: "Quick overview on some DLL injection techniques on Windows and present a little tool to statically inject DLL into binary."
+  subtype: presentation
+  speakers: [3]
+  language: "VI"
+  complexity: "Trung bình"
