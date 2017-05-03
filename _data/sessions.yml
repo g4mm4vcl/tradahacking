@@ -153,3 +153,51 @@
   speakers: [14]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 401
+  title: "Journey to the Hackerone Quarterly Leaderboard"
+  description: "This topic, I wanna talk about my recently findings on Bugbounty programs."
+  subtype: presentation
+  speakers: [18]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 402
+  title: "Sử dụng Deep Learning trong phân tích và nhận dạng Malware"
+  description: "Để phân tích và phát hiện malware, đa phần những phần mềm trong công nghiệp sử dụng kỹ thuật nhận dạng chữ ký. Trong kỹ thuật này, mỗi malware sẽ được biểu diễn dưới dạng một chuỗi bit nhị phân duy nhất đặc trưng cho malware. Tuy nhiên, với việc những malware ngày này sử dụng các phần mềm đóng gói (packer) để tạo ra nhiều biến thể mới đã khiến kỹ thuật nhận dạng chữ ký trở nên không hiệu quả. Xuất phát từ những khó khăn thực tế đó, seminar này trình bày hướng tiệp cận mới sử dụng phương pháp deep learning kết hợp với công cụ BE-PUM để nhận dạng malware. Chúng tôi đã phát triển công cụ BE-PUM (Binary Emulator for PU shdown Model generation) với mục tiêu xây dựng đồ thị luồng điều khiển (CFG-Control Flow Graph) chính xác của một chương trình mã nhị phân và xử lý được những kỹ thuật obfuscation đặc trưng của packer như lệnh nhảy không trực tiếp, code tự thay đổi... CFG này sẽ được chuyển đổi thành hình ảnh tương ứng và được nạp (feed) vào mô hình deep learning để tiến hành huấn luyện. Kết quả thí nghiệm trên tập malware thực cho một kết quả nhận diện tốt so với các phương pháp truyền thống. "
+  subtype: presentation
+  speakers: [11]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 403
+  title: "Android Banking Trojan Analysis"
+  description: "NA"
+  subtype: presentation
+  speakers: [17]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 404
+  title: "DLL injection techniques"
+  description: "Quick overview on some DLL injection techniques on Windows & present a little tool to statically inject DLL into binary."
+  subtype: presentation
+  speakers: [3]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 405
+  title: "Những phương pháp tìm lỗi thất bại"
+  description: "NA"
+  subtype: presentation
+  speakers: [16]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 406
+  title: "Machine Learning in Security"
+  description: "NA"
+  subtype: presentation
+  speakers: [0]
+  language: "VI"
+  complexity: "Trung bình"
