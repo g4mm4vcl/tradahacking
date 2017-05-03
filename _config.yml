@@ -68,7 +68,7 @@ typeoutTextValues: '"  13/05", "  Dreamplex 2 - 195 Điện Biên Phủ, Phườ
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "#", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/tra-da-hacking-04-65154/40896", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -143,7 +143,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "#"
+  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-04-65154/40896"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
   validThrough: "2017-01-14T00:00"
