@@ -43,7 +43,7 @@
   bio: "As a computer security researcher, Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, etc. Being a PhD holder in Computer Science, he also presented his researches in venues such as Usenix, IEEE, ACM, LNCS, etc. As a passionate coder, Dr. Nguyen is the founder and maintainer of open source frameworks Capstone, Unicorn & Keystone. Find the website for Keystone at www.keystone-engine.org"
   thumbnailUrl: aquynh.png
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -213,7 +213,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "NA"
   thumbnailUrl: zx.jpg
   rockstar: false
   active: true
