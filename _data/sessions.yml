@@ -172,7 +172,7 @@
 -
   id: 403
   title: "Android Banking Trojan Analysis"
-  description: "NA"
+  description: "Cùng với sự bùng phát của các thiết bị di động và các giao dịch online, tài khoản ngân hàng đã trở thành miếng mồi ngon cho các hacker. Trong bài này tác giả sẽ đề cập đến android banking trojan, cụ thể hơn là phương thức lây nhiễm, cách thức hoạt đọng cũng như cách để phòng tránh"
   subtype: presentation
   speakers: [17]
   language: "VI"
