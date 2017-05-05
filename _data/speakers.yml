@@ -213,12 +213,12 @@
   surname: ""
   company: ""
   title: ""
-  bio: "NA"
+  bio: "Sống nội tâm và yêu màu tím"
   thumbnailUrl: zx.jpg
   rockstar: false
   active: true
   social:
-    - {name: "site", link: ""}
+    - {name: "twitter", link: "https://twitter.com/wiz1340"}
 -
   id: 18
   name: "Huỳnh Hải Âu"
