@@ -42,7 +42,7 @@
   title: "Researcher + coder"
   bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, RECON, Eusecwest. Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
   thumbnailUrl: aquynh.png
-  rockstar: false
+  rockstar: true
   active: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -116,7 +116,7 @@
   bio: "Web/Mobile Pentester at FTEL. Bug hunter at home"
   thumbnailUrl: truonganh.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 
@@ -129,7 +129,7 @@
   bio: "CTFer (EXPLOIT)"
   thumbnailUrl: na.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 
@@ -141,8 +141,8 @@
   title: ""
   bio: "Diễn giả Nguyễn Minh Hải là nghiên cứu sinh tiến sĩ trường Đại học Bách khoa TP HCM, tập trung vào chủ đề phân tích mã độc. Hải cũng đồng thời tham gia giảng dạy ở một số trường Đại học và một số trung tâm như Đại học Công nghiệp, PUF (Đại học Pháp)..."
   thumbnailUrl: minhhai.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: ""}
 
@@ -155,7 +155,7 @@
   bio: "Thành viên mới của VNSecurity"
   thumbnailUrl: peter.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: "https://twitter.com/peternguyen14"}
 
@@ -168,7 +168,7 @@
   bio: "Thành viên team meepwn #noobfromSEA "
   thumbnailUrl: tadinhsung.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -180,7 +180,7 @@
   bio: "admin[at]reaonline.net"
   thumbnailUrl: kienmanowar.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: "https://kienmanowar.wordpress.com/"}
 -
@@ -192,7 +192,7 @@
   bio: "Một tâm hồn thư sinh ẩn dấu trong dáng vẻ của một tay ma cô Lan Quế Phường. Dũng hiện đang trong diện tình nghi là trung gian của các băng nhóm viết Ransomware chuyên nghiệp"
   thumbnailUrl: dungtran.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
