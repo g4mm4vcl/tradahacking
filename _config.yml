@@ -64,7 +64,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking"
 eventDate: "13 Tháng 5, 2017"
-typeoutTextValues: '"  13/05", "  Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh, Hồ Chí Minh"'
+typeoutTextValues: '"  13/05", "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
