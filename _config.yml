@@ -97,7 +97,7 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 locationBlockTitle: "Địa điểm"
 eventLocationName: "HCM"
 eventLocationLink: ""
-eventStreetAddress: "Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh"
+eventStreetAddress: "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
 eventAddressLocality: "Hồ Chí Minh"
 eventAddressLocalityRegion: "SG"
 eventPostalCode: "70000"
@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: "10.7995444, 106.7031377"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Dreamplex 2 - 195 Điện Biên Phủ, Phường 15, Bình Thạnh, Hồ Chí Minh"
+venueTitle: "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
 venueFeatures: [""]
 
 # Tweets Feed Block
@@ -146,7 +146,7 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-04-65154/40896"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validThrough: "2017-01-14T00:00"
+  validThrough: "2017-05-10T00:00"
 
 # Footer
 socialLinks:
