@@ -61,7 +61,7 @@ rightNavigationButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "tradab04-bg.png"
 heroTitle: "Trà Đá Hacking"
 eventDate: "13 Tháng 5, 2017"
 typeoutTextValues: '"  13/05", "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"'
