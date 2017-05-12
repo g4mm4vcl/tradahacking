@@ -1,7 +1,7 @@
 - 
   group: "Tài trợ"
   elements: 
-    - {name: "FPT ", description: "Please contact if you want to sponsor", link: "https://fpt.com.vn/", imageUrl: "fpt.png"}
+    - {name: "FPT ", description: "FPT", link: "https://fpt.com.vn/", imageUrl: "fpt.png"}
 -
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
