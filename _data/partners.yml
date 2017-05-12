@@ -6,5 +6,4 @@
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
     - {name: "VNG ", description: "VNG Corporation", link: "https://www.vng.com.vn", imageUrl: "vng.png"}
-    - {name: "Partnet ", description: "Please contact if you want to sponsor", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
 
