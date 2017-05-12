@@ -1,8 +1,7 @@
 - 
-  group: "Tài trợ kinh phí"
+  group: "Tài trợ"
   elements: 
-    - {name: "Sponsor ", description: "Please contact if you want to sponsor", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
-    - {name: "Sponsor ", description: "Please contact if you want to sponsor", link: "mailto:trada@vnsecurity.net?Subject=Sponsor", imageUrl: "sponsor1.png"}
+    - {name: "FPT ", description: "Please contact if you want to sponsor", link: "https://fpt.com.vn/", imageUrl: "fpt.png"}
 -
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
