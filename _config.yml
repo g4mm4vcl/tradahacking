@@ -62,7 +62,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "trada05-01.png"
-heroTitle: "Trà Đá Hacking"
+heroTitle: ""
 eventDate: "22 Tháng 9, 2017"
 typeoutTextValues: '"  22/09", "Công viên Phần mềm Đà Nẵng"'
 typeoutFallback: ""
