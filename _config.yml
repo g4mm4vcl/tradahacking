@@ -18,7 +18,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Trà Đá Hacking"
 id: "05"
 archive: false
-status: "Trang web đang xây dựnvui lòng quay lại sau"
+status: "Trang web đang xây dựng vui lòng quay lại sau"
 #status: ""
 email: "trada@vnsecurity.net"
 description: "Trà Đá Hacking"
@@ -63,12 +63,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "tradab04-bg.png"
 heroTitle: "Trà Đá Hacking"
-eventDate: "26 Tháng 9, 2017"
-typeoutTextValues: '"  13/05", "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"'
+eventDate: "22 Tháng 9, 2017"
+typeoutTextValues: '"  22/09", "Công viên Phần mềm Đà Nẵng"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/tra-da-hacking-04-65154/40896", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/tra-da-hacking-05/", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -95,9 +95,9 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "HCM"
+eventLocationName: "DN"
 eventLocationLink: ""
-eventStreetAddress: "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
+eventStreetAddress: "Công viên phần mềm Đà Nẵng"
 eventAddressLocality: "Đà Nẵng"
 eventAddressLocalityRegion: "DN"
 eventPostalCode: "70000"
@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: "16.0612153,108.2247871,17"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Flemington Tower - Tầng 3 - 182 Lê Đại Hành, Phường 15, Quận 11, Hồ Chí Minh"
+venueTitle: "Cầu Rồng Đà Nẵng"
 venueFeatures: [""]
 
 # Tweets Feed Block
@@ -139,14 +139,14 @@ ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi c
 ticketsOffers:
  -
   name: "Vé tham dự"
-  price: "99000 "
+  price: "TBD "
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-04-65154/40896"
+  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-05/"
   buyButtonText: "Đăng ký tham dự"
   ticketContentList: [""]
-  validThrough: "2017-05-10T00:00"
+  validThrough: "2017-09-15T00:00"
 
 # Footer
 socialLinks:
