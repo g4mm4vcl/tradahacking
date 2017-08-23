@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-id: "05"
+id: ""
 archive: false
 status: "Trang web đang xây dựng vui lòng quay lại sau"
 #status: ""
@@ -42,7 +42,7 @@ metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/tradab051.png"
+socialImageSrcFacebook: "/img/seo/tradab051.jpg"
 
 # Documents
 c4pUrl: &c4pUrl "http://goo.gl/HTrG3I" #goo.gl/3SkuEZ
@@ -63,7 +63,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "trada05-01.png"
 heroTitle: ""
-eventDate: "22 Tháng 9, 2017"
+eventDate: ""
 typeoutTextValues: '"  22/09", "Công viên Phần mềm Đà Nẵng"'
 typeoutFallback: ""
 heroButtons:
@@ -95,11 +95,11 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "DN"
+eventLocationName: ""
 eventLocationLink: ""
 eventStreetAddress: "Công viên phần mềm Đà Nẵng"
 eventAddressLocality: "Đà Nẵng"
-eventAddressLocalityRegion: "DN"
+eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
 eventStartTime: "2017-09-22T13:30"
