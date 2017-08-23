@@ -42,7 +42,7 @@ metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/tradab041.png"
+socialImageSrcFacebook: "/img/seo/tradab051.png"
 
 # Documents
 c4pUrl: &c4pUrl "http://goo.gl/HTrG3I" #goo.gl/3SkuEZ
@@ -61,7 +61,7 @@ rightNavigationButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
 
 # Hero Block
-heroImage: "tradab04-bg.png"
+heroImage: "trada05-01.png"
 heroTitle: "Trà Đá Hacking"
 eventDate: "22 Tháng 9, 2017"
 typeoutTextValues: '"  22/09", "Công viên Phần mềm Đà Nẵng"'
