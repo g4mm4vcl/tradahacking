@@ -1,9 +1,9 @@
 - 
   group: "Tài trợ chính"
   elements: 
-    - {name: "FPT ", description: "FPT", link: "https://fpt.com.vn/", imageUrl: "fpt.png"}
+    - {name: "CMC Infosec ", description: "CMC Infomation Security", link: "https://www6.cmcinfosec.com", imageUrl: "cmc.png"}
 -
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
-    - {name: "VNG ", description: "VNG Corporation", link: "https://www.vng.com.vn", imageUrl: "vng.png"}
+    - {name: "DSP ", description: "Danang Software Park", link: "http://www.dsp.vn", imageUrl: "cvpmdanang.png"}
 

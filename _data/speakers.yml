@@ -7,7 +7,7 @@
   bio: "Thủ lĩnh tối cao của VNSEC & CLGT. Không riêng ở Việt Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
   thumbnailUrl: rd.jpg
   rockstar: true
-  active: true
+  active: false
   social: 
     - {name: "twitter", link: "https://twitter.com/redragonvn"}
 - 
@@ -19,7 +19,7 @@
   bio: "Một người giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Dáng vẻ soái ca bề ngoài chỉ để che đậy những việc làm mờ ám và khuất tất anh đã làm trong bóng tối suốt mấy chục năm qua trên Internet."
   thumbnailUrl: g4mm4.jpg
   rockstar: true
-  active: true
+  active: false
   social:
     - {name: "twitter", link: "https://twitter.com/xchym"}
 -
@@ -30,7 +30,7 @@
   title: "Chuyên gia dịch ngược "
   bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
   thumbnailUrl: superkhung.jpg
-  rockstar: false
+  rockstar: true
   active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -42,8 +42,8 @@
   title: "Researcher + coder"
   bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, RECON, Eusecwest. Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
   thumbnailUrl: aquynh.png
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -203,8 +203,8 @@
   title: "Trùm dò lỗ"
   bio: "Là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
   thumbnailUrl: suto.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "twitter", link: "http://twitter.com/sutox"}
 -
@@ -216,7 +216,7 @@
   bio: "Sống nội tâm và yêu màu tím"
   thumbnailUrl: zx.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "twitter", link: "https://twitter.com/wiz1340"}
 -
@@ -227,7 +227,7 @@
   title: ""
   bio: "Just another enthusiasm web sec researcher!"
   thumbnailUrl: ha.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: ""}

@@ -1,41 +1,12 @@
 - 
-  date: "2017-05-13"
-  dateReadable: "13 Tháng 5"
+  date: "2017-09-22"
+  dateReadable: "22 Tháng 9"
   tracks: 
-    - {title: "Trà Đá Hacking #4", color: "#90be4e"}
+    - {title: "Trà Đá Hacking #5", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "08:30",
+        startTime: "13:30",
         endTime: "08:45",
         sessionIds: [000]
     }
-    - {
-        startTime: "09:00",
-        endTime: "09:30",
-        sessionIds: [401]
-    }
-    - {
-        startTime: "09:30",
-        endTime: "10:00",
-        sessionIds: [402]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [403]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [407]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [405]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "12:00",
-        sessionIds: [406]
-    }
+   
