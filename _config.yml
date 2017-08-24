@@ -17,7 +17,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Trà Đá Hacking"
 id: ""
-archive: true
+archive: false
 #status: "Trang web đang xây dựng vui lòng quay lại sau"
 status: ""
 email: "trada@vnsecurity.net"
