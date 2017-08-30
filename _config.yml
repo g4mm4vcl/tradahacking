@@ -64,11 +64,11 @@ rightNavigationButtons:
 heroImage: "trada05-01.png"
 heroTitle: ""
 eventDate: ""
-typeoutTextValues: '"  29/09", "Công viên Phần mềm Đà Nẵng"'
+typeoutTextValues: '"  29/09", "Hội trường tầng 3, Công viên phần mềm Đà Nẵng - Số 02 Quang Trung, Quận Hải Châu"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/tra-da-hacking-05/", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -95,9 +95,9 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: ""
+eventLocationName: "Hội trường tầng 3, Công viên phần mềm Đà Nẵng"
 eventLocationLink: ""
-eventStreetAddress: "Công viên phần mềm Đà Nẵng"
+eventStreetAddress: "Số 02 Quang Trung, Quận Hải Châu, Thành Phố Đà Nẵng"
 eventAddressLocality: "Đà Nẵng"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: "16.0612153,108.2247871"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Cầu Rồng Đà Nẵng"
+venueTitle: "Software Park Đà Nẵng"
 venueFeatures: [""]
 
 # Tweets Feed Block
@@ -138,16 +138,29 @@ ticketsTitle: "Phí tham dự"
 ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi chỉ thu phí tượng trưng để hỗ trợ 'một phần' chi phí tổ chức sự kiện và địa điểm. BTC cũng tặng vé miễn phí cho một số lượng lớn các sinh viên đam mê bảo mật. Tất cả các tiền tài trợ sau khi trừ chi phí nếu còn dư sẽ được sử dụng để tổ chức các kỳ Trà Đá Hacking sau.<br />"
 ticketsOffers:
  -
-  name: "Vé tham dự"
-  price: "TBD "
+  name: "Vé đăng ký sớm"
+  price: "99.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
-  ribbon: "0%"
-  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-05/"
-  buyButtonText: "Đăng ký tham dự"
+  ribbon: "-66.6%"
+  buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
+  buyButtonText: "Mua ngay"
   ticketContentList: [""]
-  validThrough: "2017-09-15T00:00"
-
+  validThrough: "2017-09-24T00:00"
+ -
+  name: "Vé thường"
+  price: "299.000"
+  priceCurrency: "VND"
+  ticketsNumber: "150"
+  ribbon: ""
+  featured: true
+  buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
+  buyButtonText: "Mua ngay"
+  ticketContentList: []
+  validFrom: "2014-09-25T00:00"
+  validThrough: "2014-09-29T00:00"
+  disabled: true
+ -
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=vnsec", icon: "twitter"}
