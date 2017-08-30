@@ -95,9 +95,9 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Hội trường tầng 3, Công viên phần mềm Đà Nẵng"
+eventLocationName: ""
 eventLocationLink: ""
-eventStreetAddress: "Số 02 Quang Trung, Quận Hải Châu, Thành Phố Đà Nẵng"
+eventStreetAddress: "Hội trường tầng 3, Công viên phần mềm Đà Nẵng - Số 02 Quang Trung, Quận Hải Châu, Thành Phố Đà Nẵng"
 eventAddressLocality: "Đà Nẵng"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
@@ -160,7 +160,6 @@ ticketsOffers:
   validFrom: "2014-09-25T00:00"
   validThrough: "2014-09-29T00:00"
   disabled: true
- -
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=vnsec", icon: "twitter"}
