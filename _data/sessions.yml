@@ -209,3 +209,12 @@
   speakers: [3]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 501
+  title: "Coverage-guided fuzzing"
+  description: "Coverage-guided fuzzing is a state-of-the-art methodology to find vulnerabilities. This talk is about how to build such a faster & smarter fuzzer for binaries, so we can find security bugs in closed-source programs."
+  subtype: presentation
+  speakers: [3]
+  language: "VI"
+  complexity: "Trung bình"
+
