@@ -1,6 +1,6 @@
 - 
-  date: "2017-09-22"
-  dateReadable: "22 Tháng 9"
+  date: "2017-09-29"
+  dateReadable: "29 Tháng 9"
   tracks: 
     - {title: "Trà Đá Hacking #5", color: "#90be4e"}
   timeslots:
@@ -19,4 +19,3 @@
         endTime: "14:15",
         sessionIds: [501]
     }
-   
