@@ -24,13 +24,13 @@ function getTimeRemaining(endtime) {
 }
 
 function initializeClock(id, endtimestr) {
-  endtime = parseDate(endtimestr);
   var clock = document.getElementById(id);
   var daysSpan = clock.querySelector('.days');
   var hoursSpan = clock.querySelector('.hours');
   var minutesSpan = clock.querySelector('.minutes');
   var secondsSpan = clock.querySelector('.seconds');
-
+  var endtime = parseDate(endtimestr);
+  
   function updateClock() {
     var t = getTimeRemaining(endtime);
 
