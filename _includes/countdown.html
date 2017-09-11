@@ -1,11 +1,12 @@
 <script>
-function parseDate(date) {
-  const parsed = Date.parse(date);
+function parseDate(datestr) {
+  const parsed = Date.parse(datestr);
   if (!isNaN(parsed)) {
     return parsed;
   }
-
-  return Date.parse(Date.replace(/-/g, '/').replace(/[a-z]+/gi, ' '));
+  
+  datestr = datestr.replace('T',' ');  
+  return Date.parse(datestr);
 }
   
 function getTimeRemaining(endtime) {
