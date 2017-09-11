@@ -106,7 +106,11 @@ layout: compress
                         animationDelay -= 500;
                     }
                 }
-                var deadline = "{{site.eventStartTime}}" + "+0700"; //new Date(Date.parse("{{site.eventStartTime}}" + "+0700"));
+                
+                var deadline = new Date(Date.parse("{{site.eventStartTime}}" + "+0700"));
+                if (isNaN(deadline)) {
+                    var deadline = new Date(Date.parse("{{site.eventStartTime}}".replace('T',' ') + "+0700"));
+                }
                 initializeClock('clockdiv', deadline);
             });
         {% elsif page.permalink == '/logistics/' %}
