@@ -4,7 +4,6 @@ function parseDate(datestr) {
   if (!isNaN(parsed)) {
     return parsed;
   }
-  
   datestr = datestr.replace('T',' ');  
   return Date.parse(datestr);
 }
@@ -24,7 +23,8 @@ function getTimeRemaining(endtime) {
   };
 }
 
-function initializeClock(id, endtime) {
+function initializeClock(id, endtimestr) {
+  endtime = parseDate(endtimestr);
   var clock = document.getElementById(id);
   var daysSpan = clock.querySelector('.days');
   var hoursSpan = clock.querySelector('.hours');
