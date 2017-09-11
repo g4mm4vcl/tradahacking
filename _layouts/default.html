@@ -108,7 +108,7 @@ layout: compress
                 }
                 
                 var deadline = new Date(Date.parse("{{site.eventStartTime}}"));
-                deadline.setHours(deadline.getHours() - 7); // fix timezone
+                deadline.setHours(deadline.getHours() - 7); 
                 initializeClock('clockdiv', deadline);
             });
         {% elsif page.permalink == '/logistics/' %}
