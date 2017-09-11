@@ -107,10 +107,8 @@ layout: compress
                     }
                 }
                 
-                var deadline = new Date(Date.parse("{{site.eventStartTime}}" + "+0700"));
-                if (isNaN(deadline)) {
-                    var deadline = new Date(Date.parse("{{site.eventStartTime}}".replace('T',' ') + "+0700"));
-                }
+                var deadline = new Date(Date.parse("{{site.eventStartTime}}"));
+                deadline.setHours(deadline.getHours() - 7); // fix timezone
                 initializeClock('clockdiv', deadline);
             });
         {% elsif page.permalink == '/logistics/' %}
