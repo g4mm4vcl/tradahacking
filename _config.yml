@@ -102,9 +102,9 @@ eventAddressLocality: "Đà Nẵng"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "Sept 29, 2017 13:30:00 GMT+7"
+eventStartTime: "Sept 29, 2017 13:30 GMT+7"
 eventDoorTime: "13:00"
-eventEndTime: "Sept 29, 2017 18:00:00 GMT+7"
+eventEndTime: "Sept 29, 2017 18:00 GMT+7"
 eventPlaceCoordinates: "16.0612153,108.2247871"
 mapCenterCoordinates: "16.0612153,108.2247871"
 mapMobileCenterCoordinates: "16.0612153,108.2247871"
@@ -146,7 +146,7 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
-  validThrough: "Sept 24, 2017 12:00:00 GMT+7"
+  validThrough: "Sept 24, 2017 12:00 GMT+7"
  -
   name: "Vé thường"
   price: "299.000"
@@ -157,8 +157,8 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Sept 24, 2017 12:00:00 GMT+7"
-  validThrough: "Sept 29, 2017 13:30:00 GMT+7"
+  validFrom: "Sept 24, 2017 12:00 GMT+7"
+  validThrough: "Sept 29, 2017 13:30 GMT+7"
   disabled: true
 # Footer
 socialLinks:
