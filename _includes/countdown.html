@@ -5,7 +5,7 @@ function parseDate(date) {
     return parsed;
   }
 
-  return Date.parse(date.replace(/-/g, '/').replace(/[a-z]+/gi, ' '));
+  return Date.parse(Date.replace(/-/g, '/').replace(/[a-z]+/gi, ' '));
 }
   
 function getTimeRemaining(endtime) {
