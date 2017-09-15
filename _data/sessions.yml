@@ -220,7 +220,7 @@
 -
   id: 502
   title: "Deep Learning - Simple applications in Security & Business"
-  description: "Coverage-guided fuzzing is a state-of-the-art methodology to discover vulnerabilities. This talk is about how to build such a faster & smarter fuzzer for binaries, so we can find security bugs in closed-source programs."
+  description: ""
   subtype: presentation
   speakers: [20]
   language: "VI"
