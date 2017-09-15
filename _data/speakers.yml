@@ -261,8 +261,20 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Công là người đam mê công nghệ, thích tìm hiểu nhiều khía cạnh khác nhau của khoa học máy tính như ngôn ngữ lập trình, bảo mật máy tính, đồ họa máy tính, nôm na là tất tần tật... Công đã từng làm việc trên cả 2 lĩnh vực bảo mật máy tính và lập trình phần mềm, game nên có cách nhìn tương đối khách quan về những lĩnh vực này."
   thumbnailUrl: tancong.jpg
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 22
+  name: "Nguyễn Thành Nguyên"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Submit-flag-er at MeePwn Team, Security researcher/sadboi at tsublogs."
+  thumbnailUrl: nguyennguyen.jpg
   rockstar: false
   active: true
   social:
