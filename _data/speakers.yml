@@ -279,3 +279,15 @@
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 23
+  name: "Trần Minh Quảng"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: tranminhquang.jpg
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
