@@ -235,7 +235,7 @@
   complexity: "Trung bình"
 -
   id: 504
-  title: "Second order Attacks 101:::[case study]: 2nd order sql injection::"
+  title: "Second Order Attacks & Defense:::[case study]"
   description: ""
   subtype: presentation
   speakers: [19,1]
@@ -259,10 +259,10 @@
   complexity: "Trung bình"
 -
   id: 507
-  title: "Các phương pháp tìm lỗi thất bại"
+  title: "Xây dựng sinkhole để phát hiện và xử lý mã độc APT trong mạng lưới"
   description: ""
   subtype: presentation
-  speakers: [16]
+  speakers: [23]
   language: "VI"
   complexity: "Trung bình"
 
