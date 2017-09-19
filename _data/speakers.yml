@@ -291,3 +291,15 @@
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 24
+  name: "Nguyễn Thành Nguyên"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nguyenthanhnguyen.jpg
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
