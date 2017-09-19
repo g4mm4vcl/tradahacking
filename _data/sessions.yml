@@ -230,7 +230,7 @@
   title: "HTML5 Security, How does your data belong to me"
   description: "Talk about leaking data via attacking CORS header, JSONP. Show 1 report for demo purpose from one bug bounty program."
   subtype: presentation
-  speakers: [13]
+  speakers: [24]
   language: "VI"
   complexity: "Trung bình"
 -
