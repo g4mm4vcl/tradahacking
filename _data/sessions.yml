@@ -234,7 +234,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 504
+  id: 505
   title: "Second Order Attacks & Defense:::[case study]"
   description: ""
   subtype: presentation
@@ -242,7 +242,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 505
+  id: 504
   title: "Tầm quan trọng của bảo mật đối với lập trình viên"
   description: "Vừa qua, Git vừa công bố lỗi bảo mật (CVE-2017-1000117) cho phép hacker chiếm quyền điều khiển máy nạn nhân. Bài chia sẻ sẽ phân tích lỗi nêu trên và đưa ra ý kiến cá nhân của diễn giả về những điểm lập trình viên cần phải lưu ý trong quá trình nghiên cứu và phát triển sản phẩm công nghệ."
   subtype: presentation
@@ -259,6 +259,14 @@
   complexity: "Trung bình"
 -
   id: 507
+  title: "Những mánh khoé gian lận tài chính trực tuyến - góc nhìn từ người trong cuộc"
+  description: ""
+  subtype: presentation
+  speakers: [25]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 508
   title: "Xây dựng sinkhole để phát hiện và xử lý mã độc APT trong mạng lưới"
   description: ""
   subtype: presentation
