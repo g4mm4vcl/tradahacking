@@ -210,7 +210,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 501
+  id: 503
   title: "Coverage-guided fuzzing"
   description: "Coverage-guided fuzzing is a state-of-the-art methodology to discover vulnerabilities. This talk is about how to build such a faster & smarter fuzzer for binaries, so we can find security bugs in closed-source programs."
   subtype: presentation
@@ -226,7 +226,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 503
+  id: 501
   title: "HTML5 Security, How does your data belong to me"
   description: "Talk about leaking data via attacking CORS header, JSONP. Show 1 report for demo purpose from one bug bounty program."
   subtype: presentation
