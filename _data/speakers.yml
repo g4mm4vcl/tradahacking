@@ -303,3 +303,15 @@
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 25
+  name: "Xboy"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Một thanh niên luôn rẽ trái khi thấy đám đông rẽ phải"
+  thumbnailUrl: xboy.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
