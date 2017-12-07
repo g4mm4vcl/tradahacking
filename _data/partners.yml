@@ -1,9 +1,9 @@
 - 
   group: "Tài trợ chính"
   elements: 
-    - {name: "CMC Infosec ", description: "CMC Infomation Security", link: "https://www6.cmcinfosec.com", imageUrl: "cmc.png"}
+    - {name: "Call for Sponsors", description: "", link: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor", imageUrl: "sponsor1.png"}
 -
   group: "Hỗ trợ truyền thông và tài trợ khác"
   elements: 
-    - {name: "DSP ", description: "Danang Software Park", link: "http://www.dsp.vn", imageUrl: "cvpmdanang.png"}
+    - {name: "Call for Sponsors ", description: "", link: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor", imageUrl: "sponsor1.png"}
 

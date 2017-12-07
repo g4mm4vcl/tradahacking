@@ -10,6 +10,18 @@
   active: true
   social: 
     - {name: "twitter", link: "https://twitter.com/redragonvn"}
+-
+  id: 99
+  name: "CFP"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Call-For-Paper"
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
 - 
   id: 1
   name: "G4mm4"
@@ -106,7 +118,6 @@
   active: false
   social:
     - {name: "site", link: ""}
-
 -
   id: 9
   name: "Nguyễn Phương Trường Anh - hkln1"

@@ -45,8 +45,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/tradab051.jpg"
 
 # Documents
-c4pUrl: &c4pUrl "http://goo.gl/HTrG3I" #goo.gl/3SkuEZ
-c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Sponsor"
+c4pUrl: &c4pUrl "https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
+c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor"
 
 
 # Navigation
@@ -64,11 +64,11 @@ rightNavigationButtons:
 heroImage: "trada05-01.png"
 heroTitle: ""
 eventDate: ""
-typeoutTextValues: '"  29/09", "Hội trường tầng 3, Công viên phần mềm Đà Nẵng - Số 02 Quang Trung, Quận Hải Châu"'
+typeoutTextValues: '"  12/01", "TBD"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -97,28 +97,28 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 locationBlockTitle: "Địa điểm"
 eventLocationName: ""
 eventLocationLink: ""
-eventStreetAddress: "Hội trường tầng 3, Công viên phần mềm Đà Nẵng - Số 02 Quang Trung, Quận Hải Châu, Thành Phố Đà Nẵng"
-eventAddressLocality: "Đà Nẵng"
+eventStreetAddress: "Thành Phố Hà Nội"
+eventAddressLocality: "Hà Nội"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "Sept 29, 2017 13:30 GMT+7"
+eventStartTime: "Jan 12, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
-eventEndTime: "Sept 29, 2017 18:00 GMT+7"
-eventPlaceCoordinates: "16.0612153,108.2247871"
-mapCenterCoordinates: "16.0612153,108.2247871"
-mapMobileCenterCoordinates: "16.0612153,108.2247871"
+eventEndTime: "Jan 12, 2018 18:00 GMT+7"
+eventPlaceCoordinates: "21.0302798,105.7702078"
+mapCenterCoordinates: "21.0302798,105.7702078"
+mapMobileCenterCoordinates: "21.0302798,105.7702078"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Software Park Đà Nẵng"
+venueTitle: "Hà Nội"
 venueFeatures: [""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "TraDaHacking#6?"
 twitterHashTag: "tradahacking"
 twitterFeed: "http://"
 
@@ -143,10 +143,11 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/event/"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
-  validThrough: "Sept 24, 2017 12:00 GMT+7"
+  validFrom: "Dec 24, 2017 12:00 GMT+7"
+  validThrough: "Jan 10, 2018 12:00 GMT+7"
  -
   name: "Vé thường"
   price: "299.000"
@@ -154,16 +155,16 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/event/66439/ticket-booking/42538#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/event/"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Sept 24, 2017 12:00 GMT+7"
-  validThrough: "Sept 29, 2017 13:30 GMT+7"
+  validFrom: "Jan 10, 2018 12:00 GMT+7"
+  validThrough: "Jan 12, 2018 13:30 GMT+7"
   disabled: true
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=vnsec", icon: "twitter"}
- - {link: "https://facebook.com/vnsec", icon: "facebook"}
+ - {link: "https://www.facebook.com/tradahackingvn/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

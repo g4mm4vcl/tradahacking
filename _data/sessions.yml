@@ -20,257 +20,72 @@
   complexity: "Dễ"
 -
   id: 001
-  title: "Giới thiệu khai mạc Trà Đá Hacking #05"
+  title: "Giới thiệu khai mạc Trà Đá Hacking #06"
   subtype: keynote
   speakers: [0, 8]
   language: "VI"
   complexity: "Dễ"
 -
-  id: 202
-  title: "Điều tra chứng cứ số - Đời không như là mơ "
-  description: "Chủ đề tôi muốn chia sẻ liên quan đến điều tra chứng cứ số tại Việt Nam. Chia ra làm 3 phần: <br> - Vết thù trên lưng ngựa hoang<br> - Một nửa sự thật đôi khi là sự thật<br> - Lòng tham và cạm bẫy"
-  subtype: presentation
-  speakers: [4]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 102
-  title: "Đoạt vé “miễn phí” #TràĐáHacking hay gót chân Achilles của những người khổng lồ"
-  description: "Achilles, Á thần mình đồng da sắt của thần thoại Hy Lạp, nhưng điểm yếu ở gót chân của chàng chỉ bị phát hiện khi đã gặp nạn ở chiến trường. Bài trình bày chỉ ra khó khăn khi kiện toàn một hệ thống lớn và những lỗi rất nguy hiểm, dễ khai thác nhưng rất khó vá của những người khổng lồ"
-  subtype: presentation
-  speakers: [1]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 500
-  title: "#panel-discussion Thảo luận mở - Hỏi đáp bàn tròn"
-  description: "Chủ đề sẽ được cập nhật sau"
-  subtype: presentation
-  speakers: []
-  language: "VI"
-  complexity: "Trung Bình"
--
-  id: 103
-  title: "A malware analysis case-study: Deobfuscate Windows malicious obfuscated code"
-  description: "Ngày nay, tác giả của phần mềm mã độc (malware) ngày càng sử dụng các biện pháp tinh vi hơn để bảo vệ malware. Điều đó khiến cho công việc của một người phân tích malware như tôi trở nên khó khăn hơn nhiều lần. Tôi đã gặp một mẫu malware khá thú vị khi sử dụng phương pháp làm rối (obfuscate) mã, thay vì sử dụng một chương trình packer. Qua bài nói này, tôi muốn chia sẻ phương pháp tiếp cận của mình khi phân tích các đoạn mã bị obfuscate và cách xử lý các đoạn mã đó."
-  subtype: presentation
-  speakers: [5]
-  language: "VI"
-  complexity: "Khó"
--
-  id: 201
-  title: "Bring key transparency to end users"
-  description: "CONIKS is a key management system that provides transparency and privacy for end-user public keys. CONIKS protects end-to-end encrypted communications against malicious or compromised communication providers and surveillance by storing users' encryption keys in tamper-evident and publicly auditable key directories on the server side. This allows messaging clients to verify the identity of users automatically, and prevents malicious/compromised servers from hijacking secure communications without getting caught."
-  subtype: presentation
-  speakers: [6]
-  language: "VI"
-  complexity: "Trung Bình"
--
-  id: 101
-  title: "Internet of Things - Thử thách và Cơ hội (trình bày từ xa)"
-  description: "Tôi sẽ liệt kê các vấn đề an toàn thông tin mấu chốt của các thiết bị Internet of Things, đề xuất một số hướng nghiên cứu và phát triển sản phẩm để giải quyết các vấn đề này."
-  subtype: presentation
-  speakers: [7]
-  language: "VI"
-  complexity: "Trung Bình"
--
-  id: 104
-  title: "Keypatch: binary patcher for IDA Pro"
-  description: "Sửa đổi trực tiếp mã binary là một yêu cầu hay gặp trong phân tích malware, hoặc nhằm thay đổi tính năng của ứng dụng không có mã nguồn đi kèm. Phần mềm tiêu chuẩn cho phân tích binary IDA Pro có cài đặt sẵn chức năng nói trên, nhưng công cụ này bộc lộ rất nhiều nhược điểm. Bài trình bày này giới thiệu Keypatch (http://keystone-engine.org/keypatch), một plugin cho IDA Pro nhằm vào mục đích sửa đổi binary, được thiết kế và xây dựng để khắc phục những vấn đề đã nêu."
-  subtype: presentation
-  speakers: [3]
-  language: "VI"
-  complexity: "Trung Bình"
--
-  id: 1010
-  title: "#infosec Cập nhật sau"
-  description: "Cập nhật sau"
-  subtype: presentation
-  speakers: []
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 2000
-  title: "Các bài trình bày dành riêng cho một số khách mời."
-  description: "Lưu ý đây là các bài chia sẻ và thảo luận kín chỉ dành cho khách mời. Người đăng ký mua vé tham dự sẽ chỉ được tham gia chương trình buổi chiều."
-  subtype: presentation
-  speakers: [0, 2]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 301
-  title: "Some new vulnerabilities in modern web applications (part 2)"
-  description: "Presenting about new vulnerabilities in modern web applications that have just published recently"
-  subtype: presentation
-  speakers: [9]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 302
-  title: "The LAZY way to PWN"
-  description: "Sử dụng angr (Symbolic Execution) để kiểm thử lỗi write out bound. Ví dụ như bài write-up sau http://www.hack2learn.xyz/2016/12/the-lazy-way-to-pwn.html tuy nhiên sẽ chi tiết hơn cách sử dụng và một số hạn chế của angr và cách khắc phục hạn chế. Hướng phát triển?"
-  subtype: presentation
-  speakers: [10]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 303
-  title: "Symbolic execution: The next chapter of the game"
-  description: "Static & dynamic analysis đã có một tuổi đời và tuổi nghề rất lâu trong việc phân tích binary, tuổi cao khiến việc chạy theo các binary trẻ khỏe gần đây rất vất vả. Trong bài nói này chúng ta sẽ cùng tìm hiểu một đại diện trẻ tuổi trong họ nhà analysis, một gương mặt trẻ trung và hợp thời mang một tên đầy hoa mỹ 'symbolic execution' (SE). Chúng ta cùng tìm hiểu xem bạn ấy là ai, bạn ấy có thể làm được gì và giới hạn của bạn ấy. Chúng ta sẽ đồng thời tìm hiểu ứng dụng SE với công cụ BE-PUM (Binary Emulation for Pushdown Model)."
-  subtype: presentation
-  speakers: [11]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 304
-  title: "Hip Help Heap (RealWorld Heap Exploitation)"
-  description: "Trình bày về các phương thức khai thác lỗ hổng trên heap kèm theo các case study từ thực tế qua CVE mà diễn giả tìm được"
-  subtype: presentation
-  speakers: [12]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 305
-  title: "PEDA Heap"
-  description: "Giới thiệu về công cụ peda với tính năng debug heap do chính tác gỉa đóng góp"
-  subtype: presentation
-  speakers: [13]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 306
-  title: "Denial of Service and blockchain"
-  description: "Nowadays blockchain technology is more popular, everyone able to interactive with blockchain and use its service. In fact, blockchain is a computing system and Itself isn't immutable to some popular attack vectors. Denial of Service is one of ancient attack vectors take effect to blockchain."
-  subtype: presentation
-  speakers: [15]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 307
-  title: "Basic Reverse Engineering and Skills"
-  description: "Trong những năm gần đây, thông qua các cuộc thi SVATT cùng các thông tin tuyển dụng từ các công ty làm về lĩnh vực InfoSEC hàng đầu tại Việt Nam, nhu cầu tìm hiểu và tuyển dụng về RE ngày càng cao. Nhân cơ hội này tôi (một người nghiên cứu độc lập) muốn chia sẻ với các bạn sinh viên một góc nhìn của tôi về RE và một số kỹ năng, công cụ cần thiết trên con đường nghiên cứu về lĩnh vực khù khoằm này :). Bài trình bày mang tính chất chia sẻ nhẹ nhàng, không mang nặng tính kỹ thuật :D"
-  subtype: presentation
-  speakers: [14]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 401
-  title: "Journey to the Hackerone Quarterly Leaderboard"
-  description: "This topic, I wanna talk about my recently findings on Bugbounty programs."
-  subtype: presentation
-  speakers: [18]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 402
-  title: "Sử dụng Deep Learning trong phân tích và nhận dạng Malware"
-  description: "Để phân tích và phát hiện malware, đa phần những phần mềm trong công nghiệp sử dụng kỹ thuật nhận dạng chữ ký. Trong kỹ thuật này, mỗi malware sẽ được biểu diễn dưới dạng một chuỗi bit nhị phân duy nhất đặc trưng cho malware. Tuy nhiên, với việc những malware ngày này sử dụng các phần mềm đóng gói (packer) để tạo ra nhiều biến thể mới đã khiến kỹ thuật nhận dạng chữ ký trở nên không hiệu quả. Xuất phát từ những khó khăn thực tế đó, seminar này trình bày hướng tiệp cận mới sử dụng phương pháp deep learning kết hợp với công cụ BE-PUM để nhận dạng malware. Chúng tôi đã phát triển công cụ BE-PUM (Binary Emulator for PU shdown Model generation) với mục tiêu xây dựng đồ thị luồng điều khiển (CFG-Control Flow Graph) chính xác của một chương trình mã nhị phân và xử lý được những kỹ thuật obfuscation đặc trưng của packer như lệnh nhảy không trực tiếp, code tự thay đổi... CFG này sẽ được chuyển đổi thành hình ảnh tương ứng và được nạp (feed) vào mô hình deep learning để tiến hành huấn luyện. Kết quả thí nghiệm trên tập malware thực cho một kết quả nhận diện tốt so với các phương pháp truyền thống. "
-  subtype: presentation
-  speakers: [11]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 403
-  title: "Android Banking Trojan Analysis"
-  description: "Cùng với sự bùng phát của các thiết bị di động và các giao dịch online, tài khoản ngân hàng đã trở thành miếng mồi ngon cho các hacker. Trong bài này tác giả sẽ đề cập đến android banking trojan, cụ thể hơn là phương thức lây nhiễm, cách thức hoạt đọng cũng như cách để phòng tránh"
-  subtype: presentation
-  speakers: [17]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 404
-  title: "DLL injection techniques"
-  description: "Quick overview on some DLL injection techniques on Windows and present a little tool to statically inject DLL into binary."
-  subtype: presentation
-  speakers: [0]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 405
-  title: "Những phương pháp tìm lỗi thất bại"
-  description: "NA"
-  subtype: presentation
-  speakers: [16]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 406
-  title: "Machine Learning in Security"
-  description: "NA"
-  subtype: presentation
-  speakers: [0]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 407
-  title: "DLL injection techniques"
-  description: "Quick overview on some DLL injection techniques on Windows and present a little tool to statically inject DLL into binary."
-  subtype: presentation
-  speakers: [3]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 503
-  title: "Coverage-guided fuzzing"
-  description: "Coverage-guided fuzzing is a state-of-the-art methodology to discover vulnerabilities. This talk is about how to build such a faster & smarter fuzzer for binaries, so we can find security bugs in closed-source programs."
-  subtype: presentation
-  speakers: [3]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 502
-  title: "Convolutional Neural Networks - Practical Examples for Business & Security"
+  id: 601
+  title: "Call for paper"
   description: ""
   subtype: presentation
-  speakers: [20]
+  speakers: [99]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 501
-  title: "HTML5 Security, How does your data belong to me"
-  description: "Talk about leaking data via attacking CORS header, JSONP. Show 1 report for demo purpose from one bug bounty program."
-  subtype: presentation
-  speakers: [24]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 505
-  title: "Second Order Attacks & Defense:::[case study]"
+  id: 602
+  title: "Call for paper"
   description: ""
   subtype: presentation
-  speakers: [19,1]
+  speakers: [99]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 504
-  title: "Tầm quan trọng của bảo mật đối với lập trình viên"
-  description: "Vừa qua, Git vừa công bố lỗi bảo mật (CVE-2017-1000117) cho phép hacker chiếm quyền điều khiển máy nạn nhân. Bài chia sẻ sẽ phân tích lỗi nêu trên và đưa ra ý kiến cá nhân của diễn giả về những điểm lập trình viên cần phải lưu ý trong quá trình nghiên cứu và phát triển sản phẩm công nghệ."
-  subtype: presentation
-  speakers: [21]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 506
-  title: "Android application security"
+  id: 603
+  title: "Call for paper"
   description: ""
   subtype: presentation
-  speakers: [17]
+  speakers: [99]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 507
-  title: "Những mánh khoé gian lận tài chính trực tuyến - góc nhìn từ người trong cuộc"
+  id: 604
+  title: "Call for paper"
   description: ""
   subtype: presentation
-  speakers: [25]
+  speakers: [99]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 508
-  title: "Xây dựng sinkhole để phát hiện và xử lý mã độc APT trong mạng lưới"
+  id: 605
+  title: "Call for paper"
   description: ""
   subtype: presentation
-  speakers: [23]
+  speakers: [99]
   language: "VI"
   complexity: "Trung bình"
-
+-
+  id: 606
+  title: "Call for paper"
+  description: ""
+  subtype: presentation
+  speakers: [99]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 607
+  title: "Call for paper"
+  description: ""
+  subtype: presentation
+  speakers: [99]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 608
+  title: "Call for paper"
+  description: ""
+  subtype: presentation
+  speakers: [99]
+  language: "VI"
+  complexity: "Trung bình"
