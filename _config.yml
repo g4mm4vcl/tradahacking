@@ -42,7 +42,7 @@ metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/tradab051.jpg"
+socialImageSrcFacebook: "/img/seo/tradab061.jpg"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
@@ -61,10 +61,10 @@ rightNavigationButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
 
 # Hero Block
-heroImage: "trada05-01.png"
+heroImage: "trada6-bg3.png"
 heroTitle: ""
 eventDate: ""
-typeoutTextValues: '"  12/01", "TBD"'
+typeoutTextValues: '"  19/01", "TBD"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -102,9 +102,9 @@ eventAddressLocality: "Hà Nội"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "Jan 12, 2018 13:30 GMT+7"
+eventStartTime: "Jan 19, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
-eventEndTime: "Jan 12, 2018 18:00 GMT+7"
+eventEndTime: "Jan 19, 2018 18:00 GMT+7"
 eventPlaceCoordinates: "21.0302798,105.7702078"
 mapCenterCoordinates: "21.0302798,105.7702078"
 mapMobileCenterCoordinates: "21.0302798,105.7702078"
@@ -147,7 +147,7 @@ ticketsOffers:
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Dec 24, 2017 12:00 GMT+7"
-  validThrough: "Jan 10, 2018 12:00 GMT+7"
+  validThrough: "Jan 15, 2018 12:00 GMT+7"
  -
   name: "Vé thường"
   price: "299.000"
@@ -158,8 +158,8 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Jan 10, 2018 12:00 GMT+7"
-  validThrough: "Jan 12, 2018 13:30 GMT+7"
+  validFrom: "Jan 15, 2018 12:00 GMT+7"
+  validThrough: "Jan 19, 2018 13:30 GMT+7"
   disabled: true
 # Footer
 socialLinks:
