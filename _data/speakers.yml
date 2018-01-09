@@ -374,7 +374,7 @@
   active: true
   social:
     - {name: "site", link: ""}
- -
+-
   id: 30
   name: "Trần Văn Toản"
   surname: ""
@@ -386,4 +386,3 @@
   active: true
   social:
     - {name: "site", link: ""}
- 
