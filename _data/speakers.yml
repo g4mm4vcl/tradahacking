@@ -326,3 +326,52 @@
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 26
+  name: "Zepto Team"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 27
+  name: "Hung Nguyen"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 28
+  name: "Nhẫn Giả L"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 29
+  name: "Trần Minh Quảng"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+ 
