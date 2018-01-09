@@ -95,9 +95,9 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: ""
-eventLocationLink: ""
-eventStreetAddress: "Thành Phố Hà Nội"
+eventLocationName: "Trống Đồng Palace"
+eventLocationLink: "http://www.trongdongpalace.com/"
+eventStreetAddress: "Tòa nhà Hancorp Plaza, 72 Trần Đăng Ninh, Quận Cầu Giấy Hà Nội"
 eventAddressLocality: "Hà Nội"
 eventAddressLocalityRegion: ""
 eventPostalCode: "70000"
@@ -105,9 +105,9 @@ eventAddressCountry: "Việt nam"
 eventStartTime: "Jan 19, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
 eventEndTime: "Jan 19, 2018 18:00 GMT+7"
-eventPlaceCoordinates: "21.0302798,105.7702078"
-mapCenterCoordinates: "21.0302798,105.7702078"
-mapMobileCenterCoordinates: "21.0302798,105.7702078"
+eventPlaceCoordinates: "21.0381897,105.7919237,17z"
+mapCenterCoordinates: "21.0381897,105.7919237,17z"
+mapMobileCenterCoordinates: "21.0381897,105.7919237,17z"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
@@ -150,12 +150,12 @@ ticketsOffers:
   validThrough: "Jan 15, 2018 12:00 GMT+7"
  -
   name: "Vé thường"
-  price: "299.000"
+  price: "149.000"
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/event/"
+  buyButtonLink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: []
   validFrom: "Jan 15, 2018 12:00 GMT+7"
