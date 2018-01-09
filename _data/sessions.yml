@@ -35,18 +35,18 @@
   complexity: "Trung bình"
 -
   id: 602
-  title: "Exploit old Roundcube's bug"
-  description: ""
-  subtype: presentation
-  speakers: [27]
-  language: "VI"
-  complexity: "Trung bình"
--
-  id: 603
   title: "Reversing android with Frida"
   description: ""
   subtype: presentation
   speakers: [17]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 603
+  title: "Exploit old Roundcube's bug"
+  description: ""
+  subtype: presentation
+  speakers: [27]
   language: "VI"
   complexity: "Trung bình"
 -
