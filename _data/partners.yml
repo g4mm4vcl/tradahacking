@@ -1,9 +1,6 @@
 - 
-  group: "Tài trợ chính"
+  group: "Đồng tổ chức"
   elements: 
-    - {name: "Call for Sponsors", description: "", link: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor", imageUrl: "sponsor1.png"}
--
-  group: "Hỗ trợ truyền thông và tài trợ khác"
-  elements: 
-    - {name: "Call for Sponsors ", description: "", link: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor", imageUrl: "sponsor1.png"}
+    - {name: "CMC Infosec", description: "", link: "www.cmcinfosec.com", imageUrl: "cmc.png"}
+    - {name: "Zepto", description: "", link: "https://www.facebook.com/zepto.vn", imageUrl: "zepto.png"}
 
