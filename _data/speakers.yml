@@ -342,7 +342,7 @@
   id: 27
   name: "Hung Nguyen"
   surname: ""
-  company: ""
+  company: "Zepto Team"
   title: ""
   bio: ""
   thumbnailUrl: nopic.png
@@ -367,6 +367,18 @@
   name: "Trần Minh Quảng"
   surname: ""
   company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+ -
+  id: 30
+  name: "Trần Văn Toản"
+  surname: ""
+  company: "Zepto Team"
   title: ""
   bio: ""
   thumbnailUrl: nopic.png
