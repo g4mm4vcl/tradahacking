@@ -76,7 +76,7 @@
   surname: ""
   company: ""
   title: "Chuyên gia dịch ngược "
-  bio: "Ban ngày viết code kiếm cơm, ban đêm chơi CTF."
+  bio: "Tôi là một lập trình viên thích chơi CTF. Trong thời gian rảnh, tôi thi thoảng tìm hiểu về các phần mềm mã độc và nghiên cứu các lỗ hổng phần mềm. Tôi cũng hay tham gia đóng góp cho các dự án mã nguồn mở liên quan tới an toàn và bảo mật thông tin. Blog của tôi: https://develbranch.com"
   thumbnailUrl: quangnh.jpg
   rockstar: false
   active: false
@@ -368,7 +368,8 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Tôi là một người yêu thích và làm việc trong lĩnh vực an ninh mạng, đặc biệt là về dịch ngược, nghiên cứu mã độc, xử lý sự cố an ninh thông tin.
+Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..."
   thumbnailUrl: tranminhquang.png
   rockstar: false
   active: true
@@ -382,6 +383,18 @@
   title: ""
   bio: ""
   thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 31
+  name: "Lan Nguyen"
+  surname: ""
+  company: "Veramine"
+  title: ""
+  bio: ""
+  thumbnailUrl: lannguyen.png
   rockstar: false
   active: true
   social:
