@@ -49,3 +49,11 @@
   speakers: [17]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 604
+  title: "Malicious Documents - Phân tích "bằng cơm""
+  description: ""
+  subtype: presentation
+  speakers: [14]
+  language: "VI"
+  complexity: "Trung bình"
