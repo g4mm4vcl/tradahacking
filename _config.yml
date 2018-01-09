@@ -68,7 +68,7 @@ typeoutTextValues: '"  19/01", "TBD"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -105,9 +105,9 @@ eventAddressCountry: "Việt nam"
 eventStartTime: "Jan 19, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
 eventEndTime: "Jan 19, 2018 18:00 GMT+7"
-eventPlaceCoordinates: "21.0381897,105.7919237,17z"
-mapCenterCoordinates: "21.0381897,105.7919237,17z"
-mapMobileCenterCoordinates: "21.0381897,105.7919237,17z"
+eventPlaceCoordinates: "21.0381897,105.7919237"
+mapCenterCoordinates: "21.0381897,105.7919237"
+mapMobileCenterCoordinates: "21.0381897,105.7919237"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
@@ -143,7 +143,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/"
+  buyButtonLink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Dec 24, 2017 12:00 GMT+7"
