@@ -76,14 +76,14 @@
 -
   id: 607
   title: "Dynamic Binary Instrumentation"
-  description: ""
+  description: "This talk briefly introduces Dynamic Binary Instrumenation (DBI), and its important role in security research & development. Then we will explain why a new DBI framework is needed, then how to build one. Come to see some exciting demos, and pick up few cool stickers at the same time!"
   subtype: presentation
   speakers: [3]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 608
-  title: "In-memory WMI - Next-gen Fileless Malware and more "
+  title: "In-memory WMI - Next-gen Fileless Malware and more"
   description: ""
   subtype: presentation
   speakers: [29]
