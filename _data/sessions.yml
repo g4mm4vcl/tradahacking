@@ -60,7 +60,7 @@
 -
   id: 605
   title: "A malware analysis case-study: hide and seek game in Windows Compatibility Shims"
-  description: ""
+  description: "Microsoft và hệ điều hành Windows của mình đã và đang là hệ điều hành được sử dụng phổ biến nhất, bởi tính dễ dùng và khả năng tương thích với nhiều loại máy tính, cũng như phần mềm khác nhau. Để làm như vậy, họ đã phát triển Application Compatibility Framework (ACF) để giúp hệ thống có khả năng tương thích tốt nhất với các phần mềm cũ. Tuy nhiên, các phần mềm mã độc cũng lợi dụng cơ chế này để có thể ẩn thân. Đến với hội thảo lần này, tôi mong muốn trình bày cách thức mà phần mềm mã độc (malware) đang sử dụng ACF để tồn tại trong hệ thống, cũng như phương pháp để phát hiện. Tôi cũng sẽ demo một malware (do tôi tự xây dựng) sử dụng phương pháp này."
   subtype: presentation
   speakers: [5]
   language: "VI"
