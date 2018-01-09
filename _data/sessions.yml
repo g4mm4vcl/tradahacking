@@ -89,3 +89,11 @@
   speakers: [29]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 609
+  title: "Keynote & Hỏi đáp cùng diễn giả"
+  description: ""
+  subtype: presentation
+  speakers: [0]
+  language: "VI"
+  complexity: "Trung bình"
