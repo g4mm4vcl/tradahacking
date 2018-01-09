@@ -27,65 +27,65 @@
   complexity: "Dễ"
 -
   id: 601
-  title: "Call for paper"
+  title: "Đục lỗ sản phẩm an toàn bảo mật"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [26]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 602
-  title: "Call for paper"
+  title: "Exploit old Roundcube's bug"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [27]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 603
-  title: "Call for paper"
+  title: "Reversing android with Frida"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [17]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 604
-  title: "Call for paper"
+  title: "Malicious Documents - Phân tích "bằng cơm""
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [14]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 605
-  title: "Call for paper"
+  title: "A malware analysis case-study: hide and seek game in Windows Compatibility Shims"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [5]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 606
-  title: "Call for paper"
+  title: "libfuzzer - phương pháp tự kiểm lỗi sản phẩm cho developer"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [28]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 607
-  title: "Call for paper"
+  title: "Dynamic Binary Instrumentation"
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [3]
   language: "VI"
   complexity: "Trung bình"
 -
   id: 608
-  title: "Call for paper"
+  title: "In-memory WMI - Next-gen Fileless Malware and more "
   description: ""
   subtype: presentation
-  speakers: [99]
+  speakers: [29]
   language: "VI"
   complexity: "Trung bình"
