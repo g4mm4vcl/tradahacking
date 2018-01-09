@@ -2,8 +2,3 @@
   group: "Đơn vị tổ chức chính"
   elements: 
     - {name: "VNSecurity", description: "nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời nhất tại Việt Nam", link: "http://www.vnsecurity.net", imageUrl: "vnsec.png"}
-- 
-  group: "Đơn vị đồng tổ chức"
-  elements: 
-    - {name: "CMC Infosec", description: "", link: "www.cmcinfosec.com", imageUrl: "cmc.png"}
-    - {name: "Zepto", description: "", link: "https://www.facebook.com/zepto.vn", imageUrl: "zepto.png"}
