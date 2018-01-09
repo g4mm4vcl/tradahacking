@@ -188,7 +188,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: "admin[at]reaonline.net"
+  bio: "Bản thân là một người bình thường, ham học hỏi :) - admin[at]reaonline.net"
   thumbnailUrl: kienmanowar.jpg
   rockstar: false
   active: false
@@ -344,7 +344,7 @@
   surname: ""
   company: "Zepto Team"
   title: ""
-  bio: ""
+  bio: "Nhà ngoại cảm bảo mật tự phong"
   thumbnailUrl: nopic.png
   rockstar: false
   active: true
