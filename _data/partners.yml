@@ -1,5 +1,5 @@
 - 
-  group: "Đồng tổ chức"
+  group: "Đơn vị đồng tổ chức"
   elements: 
     - {name: "CMC Infosec", description: "", link: "www.cmcinfosec.com", imageUrl: "cmc.png"}
     - {name: "Zepto", description: "", link: "https://www.facebook.com/zepto.vn", imageUrl: "zepto.png"}
