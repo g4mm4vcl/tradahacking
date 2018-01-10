@@ -41,27 +41,31 @@
     }
     - {
         startTime: "15:20",
-        endTime: "15:35",
+        endTime: "15:30",
         sessionIds: [666]
     }
     - {
-        startTime: "15:35",
-        endTime: "16:05",
+        startTime: "15:30",
+        endTime: "16:00",
         sessionIds: [606]
     }
     - {
-        startTime: "16:05",
-        endTime: "16:45",
+        startTime: "16:00",
+        endTime: "16:30",
         sessionIds: [607]
     }
     - {
-        startTime: "16:45",
-        endTime: "17:10",
+        startTime: "16:30",
+        endTime: "16:50",
         sessionIds: [609]
     }
     - {
-        startTime: "17:10",
-        endTime: "17:40",
+        startTime: "16:50",
+        endTime: "17:10",
         sessionIds: [608]
     }
-    
+    - {
+        startTime: "17:10",
+        endTime: "16:00",
+        sessionIds: [620]
+    }
