@@ -102,6 +102,6 @@
   title: "Thảo luận mở"
   description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt câu hỏi cho các diễn giả. Nếu điều kiện thời gian cho phép, BTC sẽ thực hiện livestream để trả lời các câu hỏi trực tuyến."
   subtype: panel
-  speakers: []
+  speakers: [0,1,3,5,23,31]
   language: "VI"
   complexity: "Trung bình"
