@@ -105,3 +105,11 @@
   speakers: [0,1,3,5,23,31]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 1000
+  title: "Post Conference Party"
+  description: ""
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
