@@ -97,3 +97,11 @@
   speakers: [31]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 620
+  title: "Thảo luận mở"
+  description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt những câu hỏi cho các diễn giả. Nếu điều kiện thời gian cho phép, BTC sẽ thực hiện livestream để trả lời các câu hỏi trực tuyến với các bạn không tham dự được sự kiện."
+  subtype: panel
+  speakers: []
+  language: "VI"
+  complexity: "Trung bình"
