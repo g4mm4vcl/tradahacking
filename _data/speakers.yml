@@ -399,3 +399,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 32
+  name: "Zepto Team"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Đại diện đơn vị phối hợp tổ chức, Zepto Team"
+  thumbnailUrl: zepto.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
