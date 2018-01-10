@@ -102,7 +102,7 @@
   title: ""
   bio: "* Thái là cơ thủ khét tiếng bida dù, từng chấp Lý Thế Vinh 'xổ số'.<br>* Anh ấy là huyền đai đệ eleven đẳng Taekwondo, từng tập luyện và thi đấu chung với Trần Quang Hạ, Trần Hiếu Ngân và Phan Thị Bích Hằng.<br>* Lúc rảnh rỗi Thái đi trượt tuyết. Anh ấy đang tập luyện để đại diện Việt Nam thi Olympics mùa đông kỳ tới.<br>* Thái hiện đang làm việc ở Google. Anh ấy đã có những đóng góp to lớn vào sự thành công của Google, ví dụ như từ lúc anh ấy gia nhập đến nay cổ phiếu của công ty đã tăng gấp 3 lần."
   thumbnailUrl: thaidn.jpg
-  rockstar: false
+  rockstar: true
   active: false
   social:
     - {name: "site", link: ""}
@@ -214,7 +214,7 @@
   title: "Trùm dò lỗ"
   bio: "Là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
   thumbnailUrl: suto.jpg
-  rockstar: false
+  rockstar: true
   active: true
   social:
     - {name: "twitter", link: "http://twitter.com/sutox"}
@@ -394,7 +394,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   company: "Veramine"
   title: ""
   bio: ""
-  thumbnailUrl: lannguyen.png
+  thumbnailUrl: lannguyen.jpg
   rockstar: false
   active: true
   social:
