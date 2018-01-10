@@ -102,7 +102,7 @@
   title: "Thảo luận mở"
   description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt câu hỏi cho các diễn giả."
   subtype: panel
-  speakers: [1,0,3,5,23,28,31]
+  speakers: [1,0,3,5,23,28,29,31]
   language: "VI"
   complexity: "Trung bình"
 -
