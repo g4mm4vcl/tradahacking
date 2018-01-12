@@ -66,7 +66,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 606
+  id: 607
   title: "libfuzzer - phương pháp tự kiểm lỗi sản phẩm cho developer"
   description: ""
   subtype: presentation
@@ -74,7 +74,7 @@
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 607
+  id: 606
   title: "Dynamic Binary Instrumentation"
   description: "This talk briefly introduces Dynamic Binary Instrumenation (DBI), and its important role in security research & development. Then we will explain why a new DBI framework is needed, then how to build one. Come to see some exciting demos, and pick up few cool stickers at the same time!"
   subtype: presentation
