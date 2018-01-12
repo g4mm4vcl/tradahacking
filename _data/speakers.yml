@@ -411,3 +411,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 33
+  name: "Nguyễn Minh Đức"
+  surname: ""
+  company: "CyRadar"
+  title: "Analysing an APT attack, MacOS is the target"
+  bio: "CyRadar's founder"
+  thumbnailUrl: nguyenminhduc.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
