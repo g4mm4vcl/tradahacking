@@ -98,11 +98,19 @@
   language: "VI"
   complexity: "Trung bình"
 -
+  id: 610
+  title: "Analysing an APT attack, MacOS is the target"
+  description: "Chúng tôi mới phát hiện ra 1 chiến dịch tấn công APT nhắm vào một số các tập đoàn lớn tại Việt Nam. Lần này kẻ tấn công không target vào Windows mà lại là MacOS, hệ điều hành mà lãnh đạo doanh nghiệp đó sử dụng. Đây có thể là 1 xu hướng sẽ gia tăng. Bài trình bày tập trung chủ yếu vào việc phân tích kỹ thuật mã độc gián điệp trên MacOS và một vài thông tin điều tra về nhóm tấn công. "
+  subtype: presentation
+  speakers: [33]
+  language: "VI"
+  complexity: "Trung bình"
+-
   id: 620
   title: "Thảo luận mở"
   description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt câu hỏi cho các diễn giả. <br>Host: g4mm4"
   subtype: panel
-  speakers: [1,29,0,3,5,28,31]
+  speakers: [1,29,0,3,5,28,31,33]
   language: "VI"
   complexity: "Trung bình"
 -
