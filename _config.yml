@@ -61,7 +61,7 @@ rightNavigationButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
 
 # Hero Block
-heroImage: "trada6-bg3.png"
+heroImage: "hero.jpg"
 heroTitle: ""
 eventDate: ""
 typeoutTextValues: '"  26/08", "TBD"'
@@ -102,9 +102,9 @@ eventAddressLocality: ""
 eventAddressLocalityRegion: ""
 eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "Jan 19, 2018 13:30 GMT+7"
+eventStartTime: "Aug 26, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
-eventEndTime: "Jan 19, 2018 18:00 GMT+7"
+eventEndTime: "Aug 26, 2018 18:00 GMT+7"
 eventPlaceCoordinates: "21.0381897,105.7919237"
 mapCenterCoordinates: "21.0381897,105.7919237"
 mapMobileCenterCoordinates: "21.0381897,105.7919237"
@@ -143,11 +143,11 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Dec 24, 2017 12:00 GMT+7"
-  validThrough: "Jan 15, 2018 12:00 GMT+7"
+  validThrough: "Aug 15, 2018 12:00 GMT+7"
  -
   name: "Vé thường"
   price: "149.000"
@@ -155,11 +155,11 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Jan 15, 2018 12:00 GMT+7"
-  validThrough: "Jan 19, 2018 13:30 GMT+7"
+  validFrom: "Aug 15, 2018 12:00 GMT+7"
+  validThrough: "Aug 26, 2018 13:30 GMT+7"
   disabled: true
 # Footer
 socialLinks:
