@@ -17,7 +17,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Trà Đá Hacking"
 id: ""
-archive: false
+archive: false 
 #status: "Trang web đang xây dựng vui lòng quay lại sau"
 status: ""
 email: "trada@vnsecurity.net"
@@ -45,7 +45,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/tradab061.jpg"
 
 # Documents
-c4pUrl: &c4pUrl "https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
+c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
 c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor"
 
 
@@ -64,11 +64,11 @@ rightNavigationButtons:
 heroImage: "trada6-bg3.png"
 heroTitle: ""
 eventDate: ""
-typeoutTextValues: '"  19/01", "TBD"'
+typeoutTextValues: '"  26/08", "TBD"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/69934/ticket-booking/45572#/step-select-tickets", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -95,12 +95,12 @@ rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Trống Đồng Palace"
-eventLocationLink: "http://www.trongdongpalace.com/"
-eventStreetAddress: "Tòa nhà Hancorp Plaza, 72 Trần Đăng Ninh, Quận Cầu Giấy Hà Nội"
-eventAddressLocality: "Hà Nội"
+eventLocationName: "TBD"
+eventLocationLink: "http://www.vnsecurity.net/"
+eventStreetAddress: ""
+eventAddressLocality: ""
 eventAddressLocalityRegion: ""
-eventPostalCode: "70000"
+eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
 eventStartTime: "Jan 19, 2018 13:30 GMT+7"
 eventDoorTime: "13:00"
@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: "21.0381897,105.7919237"
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Hà Nội"
+venueTitle: "Ho Chi Minh"
 venueFeatures: [""]
 
 # Tweets Feed Block
