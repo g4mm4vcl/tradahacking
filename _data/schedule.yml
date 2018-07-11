@@ -1,81 +1,12 @@
 - 
-  date: "2018-01-19"
-  dateReadable: "19 Tháng 1"
+  date: "2018-08-26"
+  dateReadable: "26 Tháng 08"
   tracks: 
-    - {title: "Trà Đá Hacking #6", color: "#90be4e"}
+    - {title: "Trà Đá Hacking #7", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "13:00",
-        endTime: "13:20",
+        startTime: "08:30",
+        endTime: "18:00",
         sessionIds: [000]
     }
-    - {
-        startTime: "13:20",
-        endTime: "13:30",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "13:30",
-        endTime: "13:50",
-        sessionIds: [601]
-    }
-    - {
-        startTime: "13:50",
-        endTime: "14:10",
-        sessionIds: [602]
-    }
-    - {
-        startTime: "14:10",
-        endTime: "14:30",
-        sessionIds: [603]
-    }
-    - {
-        startTime: "14:30",
-        endTime: "15:00",
-        sessionIds: [604]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:20",
-        sessionIds: [605]
-    }
-    - {
-        startTime: "15:20",
-        endTime: "15:30",
-        sessionIds: [666]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "16:00",
-        sessionIds: [606]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:30",
-        sessionIds: [607]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "16:50",
-        sessionIds: [609]
-    }
-    - {
-        startTime: "16:50",
-        endTime: "17:10",
-        sessionIds: [610]
-    }
-    - {
-        startTime: "17:10",
-        endTime: "17:30",
-        sessionIds: [608]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:15",
-        sessionIds: [620]
-    }
-    - {
-        startTime: "19:00",
-        endTime: "24:00",
-        sessionIds: [1000]
-    }
+   
