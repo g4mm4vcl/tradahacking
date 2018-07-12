@@ -63,8 +63,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking #7"
-eventDate: "haimuoisauthangtam"
-typeoutTextValues: '"  26/08", "TBD"'
+eventDate: "28/08/2018"
+typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
