@@ -62,8 +62,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: ""
-eventDate: ""
+heroTitle: "Trà Đá Hacking #7"
+eventDate: "haimuoisauthangtam"
 typeoutTextValues: '"  26/08", "TBD"'
 typeoutFallback: ""
 heroButtons:
