@@ -121,3 +121,11 @@
   speakers: []
   language: "VI"
   complexity: "Khó"
+-
+  id: 710
+  title: "Lễ Trao Giải chung kết cuộc thi Meepwn CTF & Kết thúc chương trình"
+  description: ""
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
