@@ -129,3 +129,11 @@
   speakers: []
   language: "VI"
   complexity: "Khó"
+-
+  id: 711
+  title: "Lunch"
+  description: ""
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
