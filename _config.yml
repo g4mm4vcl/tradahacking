@@ -71,6 +71,7 @@ typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4tUrl, text: "Trở thành giảng viên"}
  - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
 
 # About Block
