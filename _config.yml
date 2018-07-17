@@ -47,6 +47,7 @@ socialImageSrcFacebook: "/img/seo/tradab061.jpg"
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
 c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor"
+c4tUrl: &c4tUrl "https://goo.gl/iq5VEq"
 
 
 # Navigation
@@ -57,13 +58,15 @@ navigationLinks:
  - {permalink: "/archives.html", text: "Thư viện lưu trữ"}
 bottomNavigationLinks:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4tUrl, text: "Trở thành giảng viên"}
 rightNavigationButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
+ - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Trà Đá Hacking #7"
-eventDate: "28/08/2018"
+eventDate: "26/08/2018"
 typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
 typeoutFallback: ""
 heroButtons:
