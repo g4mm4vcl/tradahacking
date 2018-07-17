@@ -97,6 +97,12 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Diễn giả nổi bật"
 rockstarSpeakersButtonText: "Xem tất cả các diễn giả"
 
+# Rockstar Trainers Block
+rockstarTrainersImage: "rockstar-speakers.jpg"
+rockstarTrainersCount: 4
+rockstarTrainersTitle: "Giảng viên nổi bật"
+rockstarTrainersButtonText: "Xem tất cả các giảng viên"
+
 # Location Block
 locationBlockTitle: "Địa điểm"
 eventLocationName: "Sài Gòn"
