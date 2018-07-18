@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-id: ""
+id: "07"
 archive: false 
 #status: "Trang web đang xây dựng vui lòng quay lại sau"
 status: ""
@@ -42,11 +42,11 @@ metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/tradab061.jpg"
+socialImageSrcFacebook: "/img/seo/tradab07.jpg"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
-c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking6-Sponsor"
+c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking7-Sponsor"
 c4tUrl: &c4tUrl "https://goo.gl/iq5VEq"
 
 
@@ -65,7 +65,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Trà Đá Hacking #7"
+heroTitle: "Trà Đá Hacking"
 eventDate: "26/08/2018"
 typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
 typeoutFallback: ""
@@ -129,7 +129,7 @@ venueFeatures: [""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "TraDaHacking#6?"
+tweetsFeedTitle: "TraDaHacking#7?"
 twitterHashTag: "tradahacking"
 twitterFeed: "http://"
 
