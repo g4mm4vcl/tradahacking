@@ -40,14 +40,14 @@ organizerLink: "http://www.vnsecurity.net/"
 # Head
 metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/tradab07.jpg"
+socialImageSrcGooglePlus: "/img/seo/trada7-seo.png"
+socialImageSrcTwitter: "/img/seo/trada7-seo.png"
+socialImageSrcFacebook: "/img/seo/trada7-seo.png"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
 c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking7-Sponsor"
-c4tUrl: &c4tUrl "https://goo.gl/iq5VEq"
+c4tUrl: &c4tUrl "https://goo.gl/xjnbqA"
 
 
 # Navigation
@@ -64,15 +64,15 @@ rightNavigationButtons:
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "Trà Đá Hacking"
+heroImage: "trada7-final.png"
+heroTitle: ""
 eventDate: "26/08/2018"
 typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {link: *c4tUrl, text: "Trở thành giảng viên"}
  - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
+ - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # About Block
 aboutTitle: "Về Trà Đá Hacking"
@@ -106,7 +106,7 @@ rockstarTrainersButtonText: "Xem tất cả các giảng viên"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Sài Gòn"
+eventLocationName: "Toà nhà FPT Tân Thuận, HCMC"
 eventLocationLink: "http://www.vnsecurity.net/"
 eventStreetAddress: ""
 eventAddressLocality: ""
@@ -114,11 +114,11 @@ eventAddressLocalityRegion: ""
 eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
 eventStartTime: "Aug 26, 2018 08:30 GMT+7"
-eventDoorTime: "18:30"
+eventDoorTime: "08:00"
 eventEndTime: "Aug 26, 2018 18:00 GMT+7"
-eventPlaceCoordinates: "21.0381897,105.7919237"
-mapCenterCoordinates: "21.0381897,105.7919237"
-mapMobileCenterCoordinates: "21.0381897,105.7919237"
+eventPlaceCoordinates: "10.760682,106.7356331"
+mapCenterCoordinates: "10.760682,106.7356331"
+mapMobileCenterCoordinates: "10.760682,106.7356331"
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
