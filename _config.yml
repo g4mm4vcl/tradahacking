@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Trà Đá Hacking"
-id: "07"
+id: ""
 archive: false 
 #status: "Trang web đang xây dựng vui lòng quay lại sau"
 status: ""
@@ -66,8 +66,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "trada7-final.png"
 heroTitle: ""
-eventDate: "26/08/2018"
-typeoutTextValues: '" haimuoisauthangtamhaikhongmuoitam", "HoChiMinh"'
+eventDate: ""
+typeoutTextValues: '" ", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
@@ -108,9 +108,9 @@ rockstarTrainersButtonText: "Xem tất cả các giảng viên"
 locationBlockTitle: "Địa điểm"
 eventLocationName: "Toà nhà FPT Tân Thuận, HCMC"
 eventLocationLink: "http://www.vnsecurity.net/"
-eventStreetAddress: ""
-eventAddressLocality: ""
-eventAddressLocalityRegion: ""
+eventStreetAddress: "Lô L29B-31B—33B, đường số 8, KCX Tân Thuận, P. Tân Thuận Đông"
+eventAddressLocality: "Quận 7"
+eventAddressLocalityRegion: "HCMC"
 eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
 eventStartTime: "Aug 26, 2018 08:30 GMT+7"
