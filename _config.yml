@@ -40,9 +40,9 @@ organizerLink: "http://www.vnsecurity.net/"
 # Head
 metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
-socialImageSrcGooglePlus: "/img/seo/trada7-seo.png"
-socialImageSrcTwitter: "/img/seo/trada7-seo.png"
-socialImageSrcFacebook: "/img/seo/trada7-seo.png"
+socialImageSrcGooglePlus: "/img/seo/trada7seo.png"
+socialImageSrcTwitter: "/img/seo/trada7seo.png"
+socialImageSrcFacebook: "/img/seo/trada7seo.png"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
