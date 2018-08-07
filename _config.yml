@@ -150,23 +150,23 @@ ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi c
 ticketsOffers:
  -
   name: "Vé đăng ký sớm"
-  price: "99.000"
+  price: "299.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-7-72721/49422"
+  buyButtonLink: "https://ticketbox.vn/event/72721/ticket-booking/49422#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Jul 17, 2018 12:00 GMT+7"
   validThrough: "Aug 26, 2018 12:00 GMT+7"
  -
   name: "Vé thường"
-  price: "149.000"
+  price: "499.000"
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/"
+  buyButtonLink: "https://ticketbox.vn/event/72721/ticket-booking/49422#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: []
   validFrom: "Aug 15, 2018 12:00 GMT+7"
