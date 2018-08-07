@@ -71,7 +71,7 @@ typeoutTextValues: '" ", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/tra-da-hacking-7-72721/49422", text: "Đăng ký"}
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # About Block
@@ -154,7 +154,7 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/"
+  buyButtonLink: "https://ticketbox.vn/event/tra-da-hacking-7-72721/49422"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Jul 17, 2018 12:00 GMT+7"
